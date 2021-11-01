@@ -57,7 +57,7 @@ This section tells you what you can include in the **receipt value** of a produc
 
 
 ** Violations**
- Violations of this rule is based upon discretion of staff; however, users will not be punished for human error. We are all human, so we understand. As stated previously, restricted products will be of higher scrutiny. Please review the scalping policy as stated in #deleted-channel ; in many scenarios,** scalping will result in ban.**
+ Violations of this rule is based upon discretion of staff; however, users will not be punished for human error. We are all human, so we understand. As stated previously, restricted products will be of higher scrutiny. Please review the scalping policy as stated in <#892488347036041267> ; in many scenarios,** scalping will result in ban.**
 
 ** Discretion**
 There will always be subjective cases to listings, such as bundles and prebuilts. As such, **staff will be able to use discretion on ALL listings in the marketplace**. If you're trying to loophole the system, whether it be bundles or prebuilts or anything else, you will be moderated.

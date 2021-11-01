@@ -1,4 +1,8 @@
-# Rules documents for the Unofficial Micro Center Fan Server Discord community.
+# Unofficial Micro Center Fan Server Discord
+
+All rule documents and related resources.
+
+## Rule Documents Repository
 
 _This repository will house and document all changes made._
 

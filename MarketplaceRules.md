@@ -10,7 +10,6 @@
  **Receipt value** - The amount of money paid for your item **from a retailer BEFORE TAX.** If this is a restricted product, and a user is unable to provide a receipt from an __authorized__ retailer, we will base it off **the current price from MicroCenter**. If not available from MicroCenter, staff will use their best judgement from other retailers.
 
 ** Restricted product** - Due to the wonderful world of semiconductor shortages, some items will be heavily monitored in the marketplace channels;
-`Updated 09/29/2021`
 ```diff
 - Graphics cards (Ampere (30 series), Turing (20 series, 16 series), Big Navi (6000 series), Navi (5000 series)
 ```
@@ -64,7 +63,6 @@ There will always be subjective cases to listings, such as bundles and prebuilts
 ```ini
 [Listing Rules]
 ```
-`Updated 09/29/2021`
 5. **Please follow H-W-L format.** H - have, W - want, L - location, example:
 
 ```

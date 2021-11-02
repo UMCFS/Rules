@@ -1,8 +1,7 @@
 ```ini
 [Marketplace Rules] 
 ```
-
-`Updated 09/29/2021`
+`Updated 11/02/2021`
 
 *First, some things to define;*
 
@@ -97,7 +96,6 @@ Do not put W before H, as it makes it confusing, and you'll get a bunch of messa
 ```ini
 [Notes]
 ```
-
 **We take the marketplace seriously.** It is one of the most controversial concepts for a Discord server, especially when we enforce scalper policy. As such, understand that every action comes with discussion amongst the staff members
 
 **Be smart about what you do online.** We do everything we can to prevent scamming or exploitation, but we are not impenetrable. Please use caution, and report suspicious behaviors to <@575252669443211264>

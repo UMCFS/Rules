@@ -16,7 +16,7 @@
 - Graphics cards (Ampere (30 series), Turing (20 series, 16 series), Big Navi (6000 series), Navi (5000 series)
 ```
 
-1. **If your listing contains a restricted product (see above), you must include the receipt value somewhere in your listing. Staff may request receipts for verification.
+1. **If your listing contains a restricted product (see above), you must include the receipt value and the math used to determine your sale price, somewhere in your listing. Staff may request receipts for verification.
 **
 **When rule violations occur with these items, staff will treat it with heightened priority and seriousness.**
 
@@ -30,14 +30,14 @@
 4. **NO SCALPING. IMPORTANT!!!** __Please read carefully.__
 
 ** Price Brackets**
-We have price brackets established for ALL items in the marketplace.
+We have price brackets established for ALL items in the marketplace. 
 ```yaml
-For products with a receipt value of $0-999.99: Max amount: Receipt value* x 1.23
+For products with a receipt value of $0-999.99: Max amount: Receipt value x 1.23
 For products with a receipt value of $1000-1999.99: Max amount: Receipt value x 1.17
 For products with a receipt value of $2000+: Max amount: Receipt value x 1.14
 ```
 
-**ALL listings must follow this rule, including trade deals ON BOTH ENDS. **
+**ALL listings must follow this rule, including trade deals ON BOTH ENDS.**
 In regards to undervaluing, staff will use discretion to determine if the user is exploiting the marketplace.
 **Please review the term "Receipt Value" above.**
 
@@ -49,10 +49,10 @@ This section tells you what you can include in the **receipt value** of a produc
 
 **What cannot be included in RECEIPT VALUE:**
 ```
-> Shipping and handling from a retailer - should not be involved in your profit.
-> Sale/transaction fees - this is due to ToS violation of certain organizations like PayPal. 
-> Bundled software - You get the software for free. Why would you get to profit from it?
-> Tax - We are aware that this isn't the fairest notion, but taxation is not means to produce a profit. You can still add tax to your final price in the marketplace - no tax bracket is high enough to exceed the rules.
+> Shipping and handling from a retailer - cannot be involved in your profit.
+> Sale/transaction fees - this is due to ToS violation of certain organizations like PayPal.
+> Bundled software - You get the software for free - why would you get to profit from it?
+> Tax - can't be involved in your profit. You may, however, simply list your item for receipt value (no multiplier) + tax, what many call "at cost".
 ```
 
 
@@ -66,12 +66,12 @@ There will always be subjective cases to listings, such as bundles and prebuilts
 [Listing Rules]
 ```
 `Updated 09/29/2021`
-5. **Please follow H-W-L format.** H - have, W - want, L - location
+5. **Please follow H-W-L format.** H - have, W - want, L - location, example:
 
 ```
-[H] 3080 X
+[H] 3080 X (paid $1009 after tax)
 [W] 3080 Y
-[L] Columbus, Ohio
+[L] Columbus, Ohio 
 ```
 
 Do not put W before H, as it makes it confusing, and you'll get a bunch of messages from people who misread.
@@ -104,10 +104,10 @@ Do not put W before H, as it makes it confusing, and you'll get a bunch of messa
 
 **It may be wise to write your listing in Notepad prior to submission.**
 
-**Keep your listing to the point.** Add notes that you feel are relevant, but don't make it spam.
+**Keep your listing to the point.** Add notes that you feel are relevant, but don't make it spammy.
 
 **Marketplace is a privilege.** As stated before, the marketplace is controversial. We want to make user experience fantastic - if we feel that the marketplace has become toxic or manipulated, we will remove it
 
 
-**By reacting :white_check_mark:, you agree to these rules. You also agree to the rules of other marketplaces, when applicable. **
+**By reacting :white_check_mark:, you agree to these rules. You also agree to the rules of other marketplaces, when applicable.**
 

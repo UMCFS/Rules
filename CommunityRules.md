@@ -62,6 +62,7 @@ We do not condone scalping, as it encourages toxic conversation and behavior. As
  
 **Marketplace is a privilege.** Marketplace is a feature designed to accommodate the community. It is not the main feature of this server. At any point that we deem it more bad than good, we will remove it. Lets make it fair and good for everyone.
 
+**Every Friday will now be FREE ICECREAM DAY**
  
 
 By reacting :white_check_mark: to this message, you agree to the rules stated above and policies enforced by the server, Discord, MicroCenter, and relevant parties.

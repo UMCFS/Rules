@@ -5,17 +5,17 @@
 ** We follow ALL Discord Community Guidelines and abide by ALL clauses in Discord's Terms of Service. The staff team has FULL discretion regarding CG and ToS violations.**
 
    `Discord Community Guidelines:` https://discord.com/guidelines
-   `Discord Terms of Serivce:` https://discord.com/terms
+   `Discord Terms of Service:` https://discord.com/terms
 
 
 1. **NO SCALPING.** This rule extends beyond our marketplace. 
-We do not condone scalping, as it encourages toxic conversation and behavior. As such, users are not allowed to scalp on this server nor other marketplaces. We have this strict rule for a reason - what point is there to allow people to scalp in other marketplaces and utilize the resources of our community when it is against our rules? For more information on this rule, please see 📜-marketplace-rules.
+We do not condone scalping, as it encourages toxic conversation and behavior. As such, users are not allowed to scalp on this server nor other marketplaces. We have this strict rule for a reason - what point is there to allow people to scalp in other marketplaces and utilize the resources of our community when it is against our rules? For more information on this rule, plase see #📜-marketplace-rules
  
 **Users will be banned if found scalping.**
  
 2. **Do not post listings that are outside of the marketplace.** This is considered spam, and goes against the marketplace rules. 
 
-3. **Violating, or encouraging the violation of MicroCenter policies, committing return fraud, or attempting to circumvent customer fairness policies (__such as the graphics card restrictions__)  is strictly prohibited.** __It doesn't matter if theres some oddball case or there are employees that guide you around these policies, this will get you banned. __
+3. **Violating, or encouraging the violation of Micro Center policies, committing return fraud, or attempting to circumvent customer fairness policies (__such as the graphics card restrictions__)  is strictly prohibited.** __It doesn't matter if there is some special case or there are employees that guide you around these policies, this will get you banned. __
 
 4. **Be kind and respectful. Don't be rude or disrespectful no easier way to say it.**
  

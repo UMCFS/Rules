@@ -9,7 +9,7 @@
 
 
 1. **NO SCALPING.** This rule extends beyond our marketplace. 
-We do not condone scalping, as it encourages toxic conversation and behavior. As such, users are not allowed to scalp on this server nor other marketplaces. We have this strict rule for a reason - what point is there to allow people to scalp in other marketplaces and utilize the resources of our community when it is against our rules? For more information on this rule, plase see #📜-marketplace-rules
+We do not condone scalping, as it encourages toxic conversation and behavior. As such, users are not allowed to scalp on this server nor other marketplaces. We have this strict rule for a reason - what point is there to allow people to scalp in other marketplaces and utilize the resources of our community when it is against our rules? For more information on this rule, please see #📜-marketplace-rules
  
 **Users will be banned if found scalping.**
  

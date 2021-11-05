@@ -25,7 +25,7 @@ We do not condone scalping, as it encourages toxic conversation and behavior. As
  
 7. **Spreading false information __maliciously __ is prohibited. **We will not accept users trying to misguide others. Staff will determine collaboratively if malicious intention is present.
  
-8. **Referral links to products are not allowed.** Exceptions: Referral codes (EVGA Associates) so long as they are requested, and not spammed.
+8. **Referral links to products are not allowed.** Referral codes (EVGA Associates) is an exception: please keep them in your bio or status, not your nickname or display name; a reference in your nickname may be added to refer to your bio or status, e.g. "Nickname (EVGA code in bio)".
 
 9. **Advertising other servers whether in the server or in dms, without the permission of a admin is forbidden.** Please dm <@575252669443211264> if you would like to request permission to share a particular server.
 <--- POST BREAK HERE --->

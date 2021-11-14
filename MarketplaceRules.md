@@ -1,7 +1,7 @@
 ```ini
 [Marketplace Rules] 
 ```
-`Updated 11/02/2021`
+`Updated 11/14/2021`
 
 *First, some things to define;*
 
@@ -75,7 +75,7 @@ Do not put W before H, as it makes it confusing, and you'll get a bunch of messa
 
 6. **Listings only in marketplace channels.** Your DMs should be open if you're expecting to negotiate in marketplace. Discussion and commentary about listings is not allowed.
 
- 7. **ALL LISTINGS REQUIRE A LEGIBLE, RECENT TIMESTAMP.** After many complaints of false postings and scams, you must take a picture of the item with your username and date somewhere in the image. It cannot be digitally added to a picture; must be handwritten.
+ 7. **ALL LISTINGS REQUIRE A LEGIBLE, RECENT TIMESTAMP.** After many complaints of false postings and scams, you must take a picture of the item with your username and date somewhere in the image. It cannot be digitally added to a picture (i.e. photoshopped); must be either handwritten or displayed on a digital device in the photo, like a tablet or phone.
 
 8. **All items in listings must be IN HAND.** No posting pictures of a Newegg dub. Have them item in hand, follow the rule above, then post.
 

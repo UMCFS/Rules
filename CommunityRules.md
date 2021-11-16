@@ -1,17 +1,18 @@
 ```diff
 - RULES
 ```
+`Updated 11/16/2021`
  
 ** We follow ALL Discord Community Guidelines and abide by ALL clauses in Discord's Terms of Service. The staff team has FULL discretion regarding CG and ToS violations.**
 
    `Discord Community Guidelines:` https://discord.com/guidelines
    `Discord Terms of Service:` https://discord.com/terms
-```diff
-Please read the rules below, then react to the :white_check_mark: at the bottom of this page to accept the rules.
-```
+
+Please read the rules below, **then react to the :white_check_mark: at the bottom of this page** to accept the rules.
+
 1. **NO SCALPING.** This rule extends beyond our marketplace. 
 We do not condone scalping, as it encourages toxic conversation and behavior. As such, users are not allowed to scalp on this server nor other marketplaces. We have this strict rule for a reason - what point is there to allow people to scalp in other marketplaces and utilize the resources of our community when it is against our rules? For more information on this rule, please see <#892606881581899826>.
- 
+
 **Users will be banned if found scalping.**
  
 2. **Do not post listings that are outside of the marketplace.** This is considered spam, and goes against the marketplace rules. 

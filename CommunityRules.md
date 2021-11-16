@@ -6,10 +6,11 @@
 
    `Discord Community Guidelines:` https://discord.com/guidelines
    `Discord Terms of Service:` https://discord.com/terms
-
-
+```diff
+Please read the rules below, then react to the :white_check_mark: at the bottom of this page to accept the rules.
+```
 1. **NO SCALPING.** This rule extends beyond our marketplace. 
-We do not condone scalping, as it encourages toxic conversation and behavior. As such, users are not allowed to scalp on this server nor other marketplaces. We have this strict rule for a reason - what point is there to allow people to scalp in other marketplaces and utilize the resources of our community when it is against our rules? For more information on this rule, please see #📜-marketplace-rules
+We do not condone scalping, as it encourages toxic conversation and behavior. As such, users are not allowed to scalp on this server nor other marketplaces. We have this strict rule for a reason - what point is there to allow people to scalp in other marketplaces and utilize the resources of our community when it is against our rules? For more information on this rule, please see <#892606881581899826>.
  
 **Users will be banned if found scalping.**
  
@@ -65,4 +66,3 @@ We do not condone scalping, as it encourages toxic conversation and behavior. As
  
 
 By reacting :white_check_mark: to this message, you agree to the rules stated above and policies enforced by the server, Discord, Micro Center, and relevant parties.
-

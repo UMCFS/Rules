@@ -8,7 +8,7 @@
    `Discord Community Guidelines:` https://discord.com/guidelines
    `Discord Terms of Service:` https://discord.com/terms
 
-Please read the rules below, **then react to the :white_check_mark: at the bottom of this page** to accept the rules.
+**You must read and agree to the rules by reacting to the :white_check_mark: at the bottom to gain access to the server**, at this point if you don't have access please read the rules again in their entirety before sending a DM to <@575252669443211264>.
 
 1. **NO SCALPING.** This rule extends beyond our marketplace. 
 We do not condone scalping, as it encourages toxic conversation and behavior. As such, users are not allowed to scalp on this server nor other marketplaces. We have this strict rule for a reason - what point is there to allow people to scalp in other marketplaces and utilize the resources of our community when it is against our rules? For more information on this rule, please see <#892606881581899826>.
@@ -29,7 +29,7 @@ We do not condone scalping, as it encourages toxic conversation and behavior. As
  
 8. **Referral links to products are not allowed.** Referral codes (EVGA Associates) is an exception: please keep them in your bio or status, not your nickname or display name; a reference in your nickname may be added to refer to your bio or status, e.g. "Nickname (EVGA code in bio)".
 
-9. **Advertising other servers whether in the server or in dms, without the permission of a admin is forbidden.** Please dm <@575252669443211264> if you would like to request permission to share a particular server.
+9. **Advertising other servers whether in the server or in dms, without the permission of a admin is forbidden.** Please DM <@575252669443211264> if you would like to request permission to share a particular server.
 <--- POST BREAK HERE --->
 ```diff
 - TOS INTERPRETATIONS FOR OUR SERVER

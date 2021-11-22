@@ -13,10 +13,14 @@
 
 **MSRP** - When staff use this term, refer to Receipt Value.
 
+**Full system build** - A computer containing all of the necessary parts to function, minus peripherals. A full build will have a case, power supply, motherboard, CPU, memory, discrete GPU, disk. To reiterate, to be considered a full system build, the build must contain a discrete GPU.
+
 *Now onto the rules:*
 
 1. **NO SCALPING!**
-You may sell your item at its **cost** + $50 of profit. This $50 can be used to recoup gas, fufill a finders fee, your time, whatever. It does not need to be justified, it just needs to be $50 or less.
+You may sell your item at its **cost** +$50 of profit. You may sell full system builds (see definition above) at its **cost** +$150 of profit.
+
+This profit can be used to recoup gas, fufill a finders fee, your time, whatever. It does not need to be justified, it just needs to be $50 or less.
 ```diff
 As a reminder, application of this rule extends beyond this marketplace; it includes selling and trading activity outside of this server.
 ```

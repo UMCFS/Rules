@@ -1,64 +1,39 @@
 ```ini
 [Marketplace Rules] 
 ```
-`Updated 11/22/2021`
-
-*First, some things to define;*
+`Updated 11/xx/2021`
 
 ** Users must be __LEVEL 10__ to POST in the marketplace.** The marketplace is a privilege for active members. This is to protect you from scammers and exploitation of the marketplace. You can check your level by typing \rank in <#809956837062737960>
 
- **Receipt value** - The amount of money paid for your item **from a retailer BEFORE TAX.** If this is a restricted product, and a user is unable to provide a receipt from an __authorized__ retailer, we will base it off **the current price from MicroCenter**. If not available from MicroCenter, staff will use their best judgement from other retailers.
+*First, some things to define:*
 
-** Restricted product** - Due to the wonderful world of semiconductor shortages, some items will be heavily monitored in the marketplace channels;
+**Receipt Value** - The amount of money paid for your item from a retailer **BEFORE TAX OR OTHER COSTS.** If this is a restricted product, and a user is unable to provide a receipt from an __authorized__ retailer, we will base it off **the current price from Micro Center**. If not available from Micro Center, staff will use their best judgement from other retailers.
+
+**(At) Cost** - Cost is the receipt value, plus applicable real, direct costs, such as tax paid, shipping charges paid, and the cost of a Micro Center transferrable warranty, if included.
+
+**MSRP** - When staff use this term, refer to Receipt Value.
+
+*Now onto the rules:*
+
+1. **NO SCALPING!**
+You may sell your item at its **cost** + $50 of profit. This $50 can be used to recoup gas, fufill a finders fee, your time, whatever. It does not need to be justified, it just needs to be $50 or less.
 ```diff
-- Graphics cards (Ampere (30 series), Turing (20 series, 16 series), Big Navi (6000 series), Navi (5000 series)
+As a reminder, application of this rule extends beyond this marketplace; it includes selling and trading activity outside of this server.
 ```
+**All listings must follow this rule, including trade deals *on both ends*.**
+In regards to undervaluing, staff will use discretion to determine if the user is exploiting the marketplace. Please review the term "Receipt Value" above.
 
-1. **If your listing contains a restricted product (see above), you must include the receipt value and the math used to determine your sale price, somewhere in your listing. Staff may request receipts for verification.
-**
-**When rule violations occur with these items, staff will treat it with heightened priority and seriousness.**
+**Discretion**
+There will always be subjective cases to listings, such as bundles and prebuilts. As such, **staff will be able to use discretion on ALL listings in the marketplace**.
 
-** MSRP** - When staff use this term, refer to Receipt value.
+**Violations**
+ Violations of this rule is based upon discretion of staff; however, users will not be punished for human error. We are all human, so we understand. As stated previously, restricted products will be of higher scrutiny. Please review the scalping policy as stated in <#892488347036041267> ; in many scenarios, **scalping will result in ban.**
 
-2. **All marketplace-related offerings must be listed in the marketplace.** This prevents those below Level 10 (Active Member / "Green") from offering items for sale ad-hoc on the server. You may refer to your marketplace-listed offering in chat channels, but you may not outright offer to sell or trade items on this server outside of the marketplace.
+2. **Listings need to show math.** You must include the breakdown of costs used to calculate your listing price somewhere in your listing. Staff may request receipts for verification.
 
-3. **Marketplace is intended for hardware only.** There is some leeway with this, since hardware is loosely defined. We intend for computer components, peripherals, and other DIY-related content to be posted in the marketplace. Obscure or unrelated content will be removed.
+3. **All marketplace-related offerings must be listed in the marketplace.** This prevents those below Level 10 (Active Member / "Green") from offering items for sale ad-hoc on the server. You may refer to your marketplace-listed offering in chat channels, but you may not outright offer to sell or trade items on this server outside of the marketplace.
 
-
-4. **NO SCALPING!** __Please read carefully.__
-
-** Price Brackets**
-We have price brackets established for ALL items in the marketplace. 
-```yaml
-For products with a receipt value of $0-999.99: Max amount: Receipt value x 1.23
-For products with a receipt value of $1000-1999.99: Max amount: Receipt value x 1.17
-For products with a receipt value of $2000+: Max amount: Receipt value x 1.14
-```
-
-**ALL listings must follow this rule, including trade deals ON BOTH ENDS.**
-In regards to undervaluing, staff will use discretion to determine if the user is exploiting the marketplace.
-**Please review the term "Receipt Value" above.**
-
- **Inclusion Costs**
-This section tells you what you can include in the **receipt value** of a product. Please see **Receipt Value** above for definition
-
-**What can be included in RECEIPT VALUE:**
-    Warranties - **must be transferable**. MicroCenter warranties are transferable.
-
-**What cannot be included in RECEIPT VALUE:**
-```
-> Shipping and handling from a retailer - cannot be involved in your profit.
-> Sale/transaction fees - this is due to ToS violation of certain organizations like PayPal.
-> Bundled software - You get the software for free - why would you get to profit from it?
-> Tax - can't be involved in your profit. You may, however, simply list your item for receipt value (no multiplier) + tax, what many call "at cost".
-```
-
-
-** Violations**
- Violations of this rule is based upon discretion of staff; however, users will not be punished for human error. We are all human, so we understand. As stated previously, restricted products will be of higher scrutiny. Please review the scalping policy as stated in <#892488347036041267> ; in many scenarios,** scalping will result in ban.**
-
-** Discretion**
-There will always be subjective cases to listings, such as bundles and prebuilts. As such, **staff will be able to use discretion on ALL listings in the marketplace**. If you're trying to loophole the system, whether it be bundles or prebuilts or anything else, you will be moderated.
+4. **Marketplace is intended for hardware only.** There is some leeway with this, since hardware is loosely defined. We intend for computer components, peripherals, and other DIY-related content to be posted in the marketplace. Obscure or unrelated content will be removed.
 <--- POST LINE BREAK --->
 ```ini
 [Listing Rules]

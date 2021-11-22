@@ -13,14 +13,14 @@
 
 **MSRP** - When staff use this term, refer to Receipt Value.
 
-**Full system build** - A computer containing all of the necessary parts to function, minus peripherals (mouse, keyboard, monitor). A full build will have a case, power supply, motherboard, CPU, memory, discrete GPU, disk. To reiterate, **to be considered a full system build, the build must contain a discrete GPU.**
+**Full system build** - A computer containing all of the necessary parts to function, minus peripherals (mouse, keyboard, monitor). A full build will have a case, power supply, motherboard, CPU, memory, discrete modern GPU, disk. To reiterate, **to be considered a full system build, the build must contain a discrete GPU currently being manufactured and sold,** such as Nvidia RTX 3000 series, AMD RX 6000 series, and Nvidia GTX 1600 series; excluding GT 710.
 
 *Now onto the rules:*
 
 1. **NO SCALPING!**
 You may list your item at its **cost** +$50 of profit. If the item is a full system build (see definition above), you may list it at its **cost** +$150 of profit.
 
-This profit can be used to recoup gas, fufill a finders fee, your time, whatever. It does not need to be justified, it just needs to be $50 or less.
+This profit can be used to recoup gas, fufill a finders fee, cover your time and labor, whatever. It does not need to be justified, it just needs to be $50 ($150 for full system builds) or less.
 ```diff
 As a reminder, application of this rule extends beyond this marketplace; it includes selling and trading activity outside of this server.
 ```

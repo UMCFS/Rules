@@ -1,7 +1,7 @@
 ```ini
 [Marketplace Rules] 
 ```
-`Updated 11/14/2021`
+`Updated 11/22/2021`
 
 *First, some things to define;*
 
@@ -19,13 +19,13 @@
 **When rule violations occur with these items, staff will treat it with heightened priority and seriousness.**
 
 ** MSRP** - When staff use this term, refer to Receipt value.
- \
-2. **ALL TRANSACTIONS HAPPEN IN THE MARKETPLACE. **Those who offer to sell or buy in chats will be warned, and their messages deleted. See above.
+
+2. **All marketplace-related offerings must be listed in the marketplace.** This prevents those below Level 10 (Active Member / "Green") from offering items for sale ad-hoc on the server. You may refer to your marketplace-listed offering in chat channels, but you may not outright offer to sell or trade items on this server outside of the marketplace.
 
 3. **Marketplace is intended for hardware only.** There is some leeway with this, since hardware is loosely defined. We intend for computer components, peripherals, and other DIY-related content to be posted in the marketplace. Obscure or unrelated content will be removed.
 
 
-4. **NO SCALPING. IMPORTANT!!!** __Please read carefully.__
+4. **NO SCALPING!** __Please read carefully.__
 
 ** Price Brackets**
 We have price brackets established for ALL items in the marketplace. 
@@ -63,7 +63,7 @@ There will always be subjective cases to listings, such as bundles and prebuilts
 ```ini
 [Listing Rules]
 ```
-5. **Please follow H-W-L format.** H - have, W - want, L - location, example:
+5. **Please follow H-W-L format.** H - have, W - want, L - location, in this order example:
 
 ```
 [H] 3080 X (paid $1009 after tax)
@@ -71,17 +71,15 @@ There will always be subjective cases to listings, such as bundles and prebuilts
 [L] Columbus, Ohio 
 ```
 
-Do not put W before H, as it makes it confusing, and you'll get a bunch of messages from people who misread.
+6. **Marketplace channels are limited to listings only.** Discussions and commentary about listings are not allowed within marketplace channels; your DMs should be open if you're expecting to negotiate for your marketplace listing.
 
-6. **Listings only in marketplace channels.** Your DMs should be open if you're expecting to negotiate in marketplace. Discussion and commentary about listings is not allowed.
+7. **All listings require a timestamp.** After many complaints of false postings and scams, you must take a picture of the item with your username and date somewhere in the image. It cannot be digitally added to a picture (i.e. photoshopped); must be either handwritten or displayed on a digital device in the photo, like a tablet or phone.
 
- 7. **ALL LISTINGS REQUIRE A LEGIBLE, RECENT TIMESTAMP.** After many complaints of false postings and scams, you must take a picture of the item with your username and date somewhere in the image. It cannot be digitally added to a picture (i.e. photoshopped); must be either handwritten or displayed on a digital device in the photo, like a tablet or phone.
-
-8. **All items in listings must be IN HAND.** No posting pictures of a Newegg dub. Have them item in hand, follow the rule above, then post.
+8. **All items in listings must be IN HAND.** No posting pictures of a Newegg win. Have them item in hand, follow the rule above, then post.
 
 9. **All selling listings require asking price.** 
 
-10. **WANT TO BUY REQUESTS ARE NOT ALLOWED.** They are considered spam.
+10. **Want-to-buy requests are not allowed.** They are considered spam, and they attract scalpers.
 
 11. **You may repost your listing once every 48 hours, at most 3 times.** If it doesn't sell, it doesn't sell. Don't clutter the marketplace.
 
@@ -89,7 +87,7 @@ Do not put W before H, as it makes it confusing, and you'll get a bunch of messa
 
 13. **If you are shipping something, you must emphasize who covers those costs.** On other platforms, when the cost of an item covers shipping, they say  "$(dollar amount) shipped". Else, emphasize that shipping costs are separate.
 
-14.  **DO NOT DELETE LISTINGS.** We like to keep records. We will know if you delete it, and still have a copy. **If you have sold or traded your item, edit the listing saying SOLD or TRADED.  If you no longer wish to sell your item, please strike it out and mark as "no longer for sale."**
+14.  **Do not delete listings.** We like to keep records. We will know if you delete it, and still have a copy. **If you have sold or traded your item, edit the listing saying SOLD or TRADED.  If you no longer wish to sell your item, please strike it out and mark as "no longer for sale."**
 <---POST LINE BREAK--->
 ```ini
 [Notes]
@@ -106,4 +104,3 @@ Do not put W before H, as it makes it confusing, and you'll get a bunch of messa
 
 
 **By reacting :white_check_mark:, you agree to these rules. You also agree to the rules of other marketplaces, when applicable.**
-

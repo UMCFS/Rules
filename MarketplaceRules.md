@@ -1,7 +1,7 @@
 ```ini
 [Marketplace Rules] 
 ```
-`Updated 11/22/2021`
+`Updated 12/02/2021`
 
 *First, some things to define;*
 
@@ -87,7 +87,7 @@ There will always be subjective cases to listings, such as bundles and prebuilts
 
 13. **If you are shipping something, you must emphasize who covers those costs.** On other platforms, when the cost of an item covers shipping, they say  "$(dollar amount) shipped". Else, emphasize that shipping costs are separate.
 
-14.  **Do not delete listings.** We like to keep records. We will know if you delete it, and still have a copy. **If you have sold or traded your item, edit the listing saying SOLD or TRADED.  If you no longer wish to sell your item, please strike it out and mark as "no longer for sale."**
+14.  **Do not delete completed listings** If you have sold or traded your item, please edit the listing saying **SOLD** or **TRADED** and do not delete. If you wish to withdraw your unfilfilled listing entirely, then it is OK to delete.
 <---POST LINE BREAK--->
 ```ini
 [Notes]

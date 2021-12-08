@@ -22,7 +22,7 @@ For more information on this rule, please see <#892606881581899826>.
  
 2. **Do not post listings that are outside of the marketplace.** This is considered spam, and goes against the marketplace rules. 
 
-3. **Violating, or encouraging the violation of Micro Center policies, committing return fraud, or attempting to circumvent customer fairness policies (__such as the graphics card restrictions__)  is strictly prohibited.** __It doesn't matter if there is some special case or there are employees that guide you around these policies, this will get you banned. __
+3. **Violating, or encouraging the violation of Micro Center policies, or committing return fraud, is strictly prohibited.**
 
 4. **Be kind and respectful, don't be rude or disrespectful.**
  

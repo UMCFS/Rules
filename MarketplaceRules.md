@@ -70,7 +70,7 @@ Notes can be used to indicate willingness to ship,
 
 11. **You may repost your listing once every few days, at most 3 times.** If it doesn't sell, it doesn't sell.
 
-12. **You cannot ask for transaction fees when using PayPal G&S.** This is against their terms of use. You may instead offer a discount for local transactions.
+12. **You cannot ask the buyer to cover transactions fees when using PayPal G&S.** This is against PayPal's terms of use. You may instead offer a discount for local transactions.
 
 13. **If you are shipping something, emphasize who covers those costs during negotiation.** On other platforms such as HWS, when the listing price covers shipping, they say "$(dollar amount) shipped". Else, emphasize that shipping costs are separate.
 

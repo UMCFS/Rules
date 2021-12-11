@@ -3,17 +3,27 @@
 ```
 `Updated 1/1/2022`
 
-** Users must be __LEVEL 10__ to POST in the marketplace.** The marketplace is a privilege for active members. This is to protect you from scammers and exploitation of the marketplace. You can check your level by typing \rank in <#809956837062737960>
+**Users must be __LEVEL 10__ to POST in the marketplace.** The marketplace is a privilege for active members. This is to protect you from scammers and exploitation of the marketplace. You can check your level by typing \rank in <#809956837062737960>
 
 *First, some things to define:*
 
-**Receipt Value** - The amount of money paid for your item from a retailer **BEFORE TAX OR OTHER COSTS.** If this is a restricted product, and a user is unable to provide a receipt from an __authorized__ retailer, we will base it off **the current price from Micro Center**. If not available from Micro Center, staff will use their best judgement from other retailers.
+**Receipt Value** or **MSRP** - The amount of money paid for your item from a retailer **BEFORE TAX OR OTHER COSTS.** If this is a restricted product, and a user is unable to provide a receipt from an __authorized__ retailer, we will base it off **the current price from Micro Center**. If not available from Micro Center, staff will use their best judgement from other retailers.
 
 **(At) Cost** - Cost is the receipt value, plus applicable real, direct costs, such as tax paid, shipping charges paid, and the cost of a Micro Center transferrable warranty, if included.
 
-**MSRP** - When staff use this term, refer to Receipt Value.
-
 **Full system build** - A computer containing all of the necessary parts to function, minus peripherals (mouse, keyboard, monitor). A full build will have a case, power supply, motherboard, CPU, memory, discrete modern GPU, disk. To reiterate, **to be considered a full system build, the build must contain a discrete GPU currently being manufactured and sold,** such as Nvidia RTX 3000 and 2600 series, AMD RX 6000 series, and Nvidia GTX 1600 series; excluding GT 710.
+
+**Marketplace regions** - Marketplace regions have been defined based on store location cluster; the national channel will still be maintained. Below is how the stores have been organized by region:
+    National - all stores (cross-posting allowed here)
+    West - Tustin, CA
+    Mountain - Denver, CO
+    Midwest - St. Louis Park, MN; Overland Park, KS; Brentwood, MO; Westmont and Chicago, IL; Madison Heights, MI; Sharonville, Columbus, and Mayfield Heights, OH
+    Texas - Houston and Dallas
+    Georgia - Duluth and Marietta
+    Northeast - North Jersey, NJ; Westbury, Yonkers, Flushing, and Brooklyn, NY; Cambridge, MA
+    DMV - Fairfax, VA; Rockville and Parkville, MD;  St. Davids, PA
+
+Please post to the region that contains the Micro Center store closest to you.
 
 *Now onto the rules:*
 

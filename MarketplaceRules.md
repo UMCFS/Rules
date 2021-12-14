@@ -1,7 +1,7 @@
 ```ini
 [Marketplace Rules] 
 ```
-`Updated 12/02/2021`
+`Updated 12/14/2021`
 
 *First, some things to define;*
 
@@ -12,6 +12,7 @@
 ** Restricted product** - Due to the wonderful world of semiconductor shortages, some items will be heavily monitored in the marketplace channels;
 ```diff
 - Graphics cards (Ampere (30 series), Turing (20 series, 16 series), Big Navi (6000 series), Navi (5000 series)
+- DDR5 Memory
 ```
 
 1. **If your listing contains a restricted product (see above), you must include the receipt value and the math used to determine your sale price, somewhere in your listing. Staff may request receipts for verification.

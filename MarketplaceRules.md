@@ -13,8 +13,8 @@
 
 **Full system build** - A computer containing all of the necessary parts to function, minus peripherals (mouse, keyboard, monitor). A full build will have a case, power supply, motherboard, CPU, memory, discrete modern GPU, disk. To reiterate, **to be considered a full system build, the build must contain a discrete GPU currently being manufactured and sold,** such as Nvidia RTX 3000 and 2600 series, AMD RX 6000 series, and Nvidia GTX 1600 series; excluding GT 710.
 
-**Marketplace regions** - Marketplace regions have been defined based on store location cluster; the national channel will still be maintained. Below is how the stores have been organized by region:
-    National - all stores; all listings placed here are assumed to be shipped
+**Marketplace regions** - Marketplace regions have been defined based on store location cluster; the National channel will still be maintained. Below is how the stores have been organized by region:
+    National - all stores; listings placed here are assumed to be shipped
     West - Tustin, CA
     Mountain - Denver, CO
     Midwest - St. Louis Park, MN; Overland Park, KS; Brentwood, MO; Westmont and Chicago, IL; Madison Heights, MI; Sharonville, Columbus, and Mayfield Heights, OH
@@ -23,7 +23,7 @@
     Northeast - North Jersey, NJ; Westbury, Yonkers, Flushing, and Brooklyn, NY; Cambridge, MA
     DMV - Fairfax, VA; Rockville and Parkville, MD;  St. Davids, PA
 
-Please post to the region that contains the Micro Center store closest to you. If you would also be willing to ship your item domestically to a buyer, then feel free to cross-post to National.
+Please post to the region that contains the Micro Center store closest to you. If you're willing to sell and ship domestically to a buyer, then feel free to cross-post to National.
 <--- POST LINE BREAK --->
 *Now onto the rules:*
 
@@ -49,7 +49,7 @@ As a reminder, application of this rule extends beyond this marketplace; it incl
 ```ini
 [Listing Rules]
 ```
-5. **Please follow H-W-L-N format.** H - have, W - want, L - location, N - notes , in that order. Example:
+**Please follow H-W-L-N format.** H - have, W - want, L - location, N - notes , in that order. Example:
 ```
 [H] EVGA 3080 FTW3 Ultra (paid $1035 with tax)
 [W] $1085 ($1035 + $50)
@@ -58,19 +58,19 @@ As a reminder, application of this rule extends beyond this marketplace; it incl
 ```
 Notes
 
-5. **Marketplace is intended for hardware only.** We intend for computer components, peripherals, and other DIY-related content to be posted in the marketplace. There is some leeway with this, since hardware is loosely defined, but obscure or unrelated content will be removed, such as couches.
+4. **Marketplace is intended for hardware only.** We intend for computer components, peripherals, and other DIY-related content to be posted in the marketplace. There is some leeway with this, since hardware is loosely defined, but obscure or unrelated content will be removed, such as couches.
 
-6. **All listings require a timestamp.** You must take a picture of the item with your username and date somewhere in the image. It cannot be digitally added to a picture (i.e. photoshopped); must be either handwritten or displayed on a digital device in the photo, like a tablet or phone.
+5. **All listings require a timestamp.** You must take a picture of the item with your username and date somewhere in the image. It cannot be digitally added to a picture (i.e. photoshopped); must be either handwritten or displayed on a digital device in the photo, like a tablet or phone.
 
-7. **All items in listings must be physically in hand.** No posting pictures of a Newegg win prior to buying or receiving it. Have the item in hand, then post.
+6. **All items in listings must be physically in hand.** No posting pictures of a Newegg win prior to buying or receiving it. Have the item in hand, then post.
 
-8. **All selling listings require an asking price.**
+7. **All selling listings require an asking price.**
 
-9. **Want-to-buy requests are not allowed.**
+8. **Want-to-buy requests are not allowed.**
 
-10. **When using PayPal G&S, you cannot ask a buyer to explicitly pay for transactions fees.** This is against PayPal's terms of use. For sake of our marketplace, you may include those fees in your "Shipping & Handling" costs.
+9. **When using PayPal G&S, you cannot ask a buyer to explicitly pay for transactions fees.** This is against PayPal's terms of use. For sake of our marketplace, you may include those fees in your "Shipping & Handling" costs.
 
-11.  **Do not delete completed listings** If you have sold or traded your item, please edit the listing with ~~strikeout~~, and add **SOLD** or **TRADED**, but please do not delete. If you wish to withdraw your unfilfilled listing entirely, then it is OK to delete.
+10.  **Do not delete completed listings** If you have sold or traded your item, please edit the listing with ~~strikeout~~, and add **SOLD** or **TRADED**, but please do not delete. If you wish to withdraw your unfilfilled listing entirely, then it is OK to delete.
 <---POST LINE BREAK--->
 ```ini
 [Notes]

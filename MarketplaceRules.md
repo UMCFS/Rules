@@ -3,18 +3,18 @@
 ```
 `Updated 1/1/2022`
 
-**Users must be __LEVEL 10__ to POST in the marketplace.** The marketplace is a privilege for active members. This is to protect you from scammers and exploitation of the marketplace. You can check your level by typing \rank in <#809956837062737960>.
+**Users must be __LEVEL 10__ to POST in the marketplace.** This is to protect buyers from scammers. You can check your level by typing \rank in <#809956837062737960>.
 
 *First, some things to define:*
 
-**Receipt Value** or **MSRP** - The amount of money paid for your item from a retailer **BEFORE TAX OR OTHER COSTS.** If this is a restricted product, and a user is unable to provide a receipt from an __authorized__ retailer, we will base it off the current price from Micro Center. If not available from Micro Center, staff will use their best judgement from other retailers.
+**Receipt Value** - The amount of money paid for your item from a retailer **BEFORE TAX OR OTHER COSTS.** If this is a restricted product, and a user is unable to provide a receipt from an __authorized__ retailer, we will base it off the current price from Micro Center. If also unavailable from Micro Center, staff will use their best judgement from other retailers.
 
 **(At) Cost** - Cost is the receipt value, plus applicable real, direct costs, such as tax paid, shipping charges paid, and the cost of a Micro Center transferrable warranty, if applicable.
 
-**Full system build** - A computer containing all of the necessary parts to function, minus peripherals (mouse, keyboard, monitor). A full build will have a case, power supply, motherboard, CPU, memory, discrete modern GPU, disk. To reiterate, **to be considered a full system build, the build must contain a discrete GPU currently being manufactured and sold,** such as Nvidia RTX 3000 and 2600 series, AMD RX 6000 series, and Nvidia GTX 1600 series; excluding GT 710 and 1030.
+**Full system build** - A PC containing all of the necessary parts to function, minus peripherals (mouse, keyboard, monitor). A full build shall be assembled with a case, power supply, motherboard, CPU, memory, disk, and modern discrete GPU. To reiterate, **to be considered a full system build, the build must contain a discrete GPU currently being manufactured and sold,** such as Nvidia RTX 3000 and 2600 series, AMD RX 6000 series, and Nvidia GTX 1600 series. This discourages those shucking GPUs out of good builds and reselling here.
 
-**Marketplace regions** - Marketplace regions have been defined based on store location cluster; the National channel will still be maintained. Below is how the stores have been organized by region:
-    National - all stores; listings placed here are assumed to be shipped
+**Marketplace regions** - Regions are based on Micro Center store location clusters, plus a National channel for shipped items. Below is how the stores have been grouped:
+    National - all stores
     West - Tustin, CA
     Mountain - Denver, CO
     Midwest - St. Louis Park, MN; Overland Park, KS; Brentwood, MO; Westmont and Chicago, IL; Madison Heights, MI; Sharonville, Columbus, and Mayfield Heights, OH
@@ -23,24 +23,23 @@
     Northeast - North Jersey, NJ; Westbury, Yonkers, Flushing, and Brooklyn, NY; Cambridge, MA
     DMV - Fairfax, VA; Rockville and Parkville, MD;  St. Davids, PA
 
-Please post to the region that contains the Micro Center store closest to you. If you're willing to sell and ship domestically to a buyer, then feel free to cross-post to National.
-<--- POST LINE BREAK --->
+Your listing should be posted to the region that contains the Micro Center store closed to you. If you're willing to sell and ship domestically to a buyer using PayPal G&S, then you may cross-post to National.
+
 *Now onto the rules:*
 
 1. **NO SCALPING OR TAKING ADVANTAGE OF EXTREME MARKET DEMAND.**
-You may list your item at its **cost** +$50 of profit. If the item is a full system build (see definition above), you may list it at its **cost** +$200 of profit.
+You may list your item at its **cost** +$50 of profit. If item qualifies as a full system build as defined above, you may list it at its **cost** +$200 of profit.
 
-This profit can be used to recoup gas, fufill a finders fee, cover your time and labor (especially for full system builds), whatever. It does not need to be justified, it just needs to be no more than $50 for items, $200 for full system builds.
+This profit can be used to recoup gas, fufill a finders fee, cover your time and labor (especially for full system builds), etc. - it does not need to be justified or detailed just included in your cost breakdown (see below).
 
-**You must include the breakdown of costs used to calculate your listing price somewhere in your listing.** Staff may request receipts for verification; all buyers should. See [Listing Rules] for information on how to show these in your listing.
+**You must include a breakdown of actual costs paid; this shows buyers how you calculated your listing price.** Staff may request receipts for verification; all buyers should. See [Listing Rules] for information on how to show these in your listing.
 
 **All transactions must follow this rule, including trade deals *on both ends*.**
-In regards to undervaluing, staff will use discretion to determine if the user is exploiting the marketplace. Please review the term "Receipt Value" above.
-
-In most instances, deliberate scalping here or elsewhere will result in ban.
 ```diff
-As a reminder, application of this rule extends beyond this marketplace; it includes your selling and trading activity outside of this server.
+As a reminder, application of this rule extends beyond this marketplace; it includes your selling and trading activity outside of this server, such as on Reddit HWS and FB Marketplace.
 ```
+**Deliberate scalping here or elsewhere will result in ban.**
+
 2. **Marketplace channels are limited to listings only.** Discussions and commentary about listings are not allowed within marketplace channels; your DMs should be open if you're expecting to negotiate for your marketplace listing.
 
 3. **Any offer to sell or trade hardware must be listed in the marketplace.** This prevents those below Level 10 ("Active Member" / Green) from offering items for sale ad-hoc in other channels of the server. You may link to your marketplace-listed offering in chat channels, but you may not outright offer to sell or trade items on this server outside of the marketplace.
@@ -70,7 +69,6 @@ Notes may be used to indicate any additional information about your listing.
 9. **When using PayPal G&S, you cannot ask a buyer to explicitly pay for transactions fees.** For sake of our marketplace, you may include those fees in your "Shipping & Handling" costs. Otherwise asking a buyer to pay transactions fees directly is against PayPal's terms of use.
 
 10.  **Do not delete completed listings** If you have sold or traded your item, please edit the listing with ~~strikeout~~, and add **SOLD** or **TRADED**, but please do not delete. If you wish to withdraw your unfilfilled listing entirely, then it is OK to delete.
-<---POST LINE BREAK--->
 ```ini
 [Notes]
 ```

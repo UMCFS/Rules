@@ -67,7 +67,7 @@ Notes may be used to indicate any additional information about your listing.
 
 8. **Want-to-buy requests are not allowed.** WTB listings encourage scalpers.
 
-9. **When using PayPal G&S, you cannot ask a buyer to explicitly pay for transactions fees.** This is against PayPal's terms of use. For sake of our marketplace, you may include those fees in your "Shipping & Handling" costs.
+9. **When using PayPal G&S, you cannot ask a buyer to explicitly pay for transactions fees.** For sake of our marketplace, you may include those fees in your "Shipping & Handling" costs. Otherwise asking a buyer to pay transactions fees directly is against PayPal's terms of use.
 
 10.  **Do not delete completed listings** If you have sold or traded your item, please edit the listing with ~~strikeout~~, and add **SOLD** or **TRADED**, but please do not delete. If you wish to withdraw your unfilfilled listing entirely, then it is OK to delete.
 <---POST LINE BREAK--->

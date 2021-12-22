@@ -7,7 +7,7 @@
 
 *First, some things to define:*
 
-**Receipt Value** - The amount of money paid for your item from a retailer **BEFORE TAX OR OTHER COSTS.** If this is a restricted product, and a user is unable to provide a receipt from an __authorized__ retailer, we will base it off the current price from Micro Center. If also unavailable from Micro Center, staff will use their best judgement from other retailers.
+**Receipt Value** - The amount of money paid for your item from a retailer or in a private sale **BEFORE TAX OR OTHER COSTS.** If this is a restricted product, and a user is unable to provide a receipt from an __authorized__ retailer, we will base it off the current price from Micro Center. If also unavailable from Micro Center, staff will use their best judgement from other retailers.
 
 **(At) Cost** - Cost is the receipt value, plus applicable real, direct costs, such as tax paid, shipping charges paid, and the cost of a Micro Center transferrable warranty, if applicable.
 

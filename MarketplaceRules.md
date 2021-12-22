@@ -1,13 +1,13 @@
 ```ini
 [Marketplace Rules] 
 ```
-`Updated 12/14/2021`
+`Updated 12/22/2021`
 
 *First, some things to define;*
 
 ** Users must be __LEVEL 10__ to POST in the marketplace.** The marketplace is a privilege for active members. This is to protect you from scammers and exploitation of the marketplace. You can check your level by typing \rank in <#809956837062737960>
 
- **Receipt value** - The amount of money paid for your item **from a retailer BEFORE TAX.** If this is a restricted product, and a user is unable to provide a receipt from an __authorized__ retailer, we will base it off **the current price from MicroCenter**. If not available from MicroCenter, staff will use their best judgement from other retailers.
+**Receipt value** - The amount of money paid for your item, either from a retailer BEFORE TAX, or in a private sale. If this is a restricted product, and a user is unable to provide a receipt from an __authorized__ retailer, we will base it off **the current price from MicroCenter**. If not available from Micro Center, staff will use their best judgement from other retailers.
 
 ** Restricted product** - Due to the wonderful world of semiconductor shortages, some items will be heavily monitored in the marketplace channels;
 ```diff
@@ -19,12 +19,11 @@
 **
 **When rule violations occur with these items, staff will treat it with heightened priority and seriousness.**
 
-** MSRP** - When staff use this term, refer to Receipt value.
+**MSRP** - When staff use this term, refer to Receipt value.
 
 2. **All marketplace-related offerings must be listed in the marketplace.** This prevents those below Level 10 (Active Member / "Green") from offering items for sale ad-hoc on the server. You may refer to your marketplace-listed offering in chat channels, but you may not outright offer to sell or trade items on this server outside of the marketplace.
 
 3. **Marketplace is intended for hardware only.** There is some leeway with this, since hardware is loosely defined. We intend for computer components, peripherals, and other DIY-related content to be posted in the marketplace. Obscure or unrelated content will be removed.
-
 
 4. **NO SCALPING!** __Please read carefully.__
 

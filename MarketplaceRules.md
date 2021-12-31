@@ -8,7 +8,7 @@
 *First, some things to define:*
 
 **Base Value** -
-__Purchased rom an authorized retailer:__ the amount of money paid for your item on a receipt after any discounts, but before taxes and other costs.
+__Purchased from an authorized retailer:__ the amount of money paid for your item on a receipt after any discounts, but before taxes and other costs.
 __Purchased from a private party sale or non-authorized retailer:__ the lowest value between these sources shall be used: the actual item sale price (before tax and other costs), MSRP, or the current item pricing from an authorized retailer.
 
 **(At) Cost** - Cost is the base value, plus applicable real, direct costs, such as tax paid, shipping charges paid, and the cost of a Micro Center transferrable warranty, if applicable.
@@ -16,14 +16,14 @@ __Purchased from a private party sale or non-authorized retailer:__ the lowest v
 **Full system build** - A PC containing all of the necessary parts to function, minus peripherals (mouse, keyboard, monitor). A full build shall be assembled with a case, power supply, motherboard, CPU, memory, disk, and modern discrete GPU. To reiterate, **to be considered a full system build, the build must contain a discrete GPU currently being manufactured and sold,** such as Nvidia RTX 3000 and 2600 series, AMD RX 6000 series, and Nvidia GTX 1600 series. This discourages those shucking GPUs out of good builds and reselling here.
 
 **Marketplace regions** - Regions are based on Micro Center store location clusters, plus a National channel for shipped items. Below is how the stores have been grouped:
-    National - all stores
-    West - Tustin, CA
-    Mountain - Denver, CO
-    Midwest - St. Louis Park, MN; Overland Park, KS; Brentwood, MO; Westmont and Chicago, IL; Madison Heights, MI; Sharonville, Columbus, and Mayfield Heights, OH
-    Texas - Houston and Dallas
-    Georgia - Duluth and Marietta
-    Northeast - North Jersey, NJ; Westbury, Yonkers, Flushing, and Brooklyn, NY; Cambridge, MA
-    DMV - Fairfax, VA; Rockville and Parkville, MD;  St. Davids, PA
+    * National - all stores
+    * West - Tustin, CA
+    * Mountain - Denver, CO
+    * Midwest - St. Louis Park, MN; Overland Park, KS; Brentwood, MO; Westmont and Chicago, IL; Madison Heights, MI; Sharonville, Columbus, and Mayfield Heights, OH
+    * Texas - Houston and Dallas
+    * Georgia - Duluth and Marietta
+    * DMV - Fairfax, VA; Rockville and Parkville, MD;  St. Davids, PA
+    * Northeast - North Jersey, NJ; Westbury, Yonkers, Flushing, and Brooklyn, NY; Cambridge, MA
 
 Your listing should be posted to the region that contains the Micro Center store closed to you. If you're willing to sell and ship domestically to a buyer using PayPal G&S, then you may cross-post to National.
 

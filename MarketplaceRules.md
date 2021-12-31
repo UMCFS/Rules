@@ -7,11 +7,11 @@
 
 *First, some things to define:*
 
-**Receipt Value** -
-From an authorized retailer: the amount of money paid for your item on a receipt after any discounts, but before taxes and other costs.
-From a private party sale or non-authorized retailer: the lower value between these two sources shall be used: the actual item sale price (before tax and other costs), or the current item pricing from an authorized retailer.
+**Base Value** -
+__Purchased rom an authorized retailer:__ the amount of money paid for your item on a receipt after any discounts, but before taxes and other costs.
+__Purchased from a private party sale or non-authorized retailer:__ the lowest value between these sources shall be used: the actual item sale price (before tax and other costs), MSRP, or the current item pricing from an authorized retailer.
 
-**(At) Cost** - Cost is the receipt value, plus applicable real, direct costs, such as tax paid, shipping charges paid, and the cost of a Micro Center transferrable warranty, if applicable.
+**(At) Cost** - Cost is the base value, plus applicable real, direct costs, such as tax paid, shipping charges paid, and the cost of a Micro Center transferrable warranty, if applicable.
 
 **Full system build** - A PC containing all of the necessary parts to function, minus peripherals (mouse, keyboard, monitor). A full build shall be assembled with a case, power supply, motherboard, CPU, memory, disk, and modern discrete GPU. To reiterate, **to be considered a full system build, the build must contain a discrete GPU currently being manufactured and sold,** such as Nvidia RTX 3000 and 2600 series, AMD RX 6000 series, and Nvidia GTX 1600 series. This discourages those shucking GPUs out of good builds and reselling here.
 
@@ -32,9 +32,9 @@ Your listing should be posted to the region that contains the Micro Center store
 1. **NO SCALPING OR TAKING ADVANTAGE OF EXTREME MARKET DEMAND.**
 You may list your item at its **cost** +$50 of profit. If item qualifies as a full system build as defined above, you may list it at its **cost** +$200 of profit.
 
-This profit can be used to recoup gas, fufill a finders fee, cover your time and labor (especially for full system builds), etc. - it does not need to be justified or detailed just included in your cost breakdown (see below).
+This profit can be used to recoup gas, fufill a finders fee, cover your time and labor (especially for full system builds), etc. - it does not need to be justified or detailed, just included in your cost breakdown (see below).
 
-**You must include a breakdown of actual costs paid; this shows buyers how you calculated your listing price.** Staff may request receipts for verification; all buyers should. See [Listing Rules] for information on how to show these in your listing.
+**You must include a breakdown of actual costs paid; this shows buyers how you calculated your listing price.** All potential buyers should request receipts from sellers. See [Listing Rules] for information on how to show these in your listing.
 
 **All transactions must follow this rule, including trade deals *on both ends*.**
 ```diff

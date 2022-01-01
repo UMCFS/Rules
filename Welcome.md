@@ -18,4 +18,7 @@ Here's a brief description of the channel categories that are in the server:
 LEVEL 10 (Active Member/"Green") required to list in the marketplace.
 ```
 We hope that you have a fun and joyful experience in our server!
+
+If you need help with joining the server, please submit a ticket to @ModMail#5460
+
 Here's an invite to our Server if you want to invite others: https://discord.com/invite/umcd

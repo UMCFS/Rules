@@ -13,7 +13,7 @@ __Purchased from a private party sale or non-authorized retailer:__ the lowest v
 
 **(At) Cost** - Cost is the base value, plus applicable real, direct costs, such as tax paid, shipping charges paid, and the cost of a Micro Center transferrable warranty, if applicable.
 
-**Full system build** - A PC containing all of the necessary parts to function, minus peripherals (mouse, keyboard, monitor). A full build shall be assembled with a case, power supply, motherboard, CPU, memory, disk, and modern discrete GPU. To reiterate, **to be considered a full system build, the build must contain a discrete GPU currently being manufactured and sold,** such as Nvidia RTX 3000 and 2600 series, AMD RX 6000 series, and Nvidia GTX 1600 series. This discourages those shucking GPUs out of good builds and reselling here.
+**Full system build** - A PC containing all of the necessary parts to function, minus peripherals (mouse, keyboard, monitor). A full build shall be assembled with a case, power supply, motherboard, CPU, memory, disk, and modern discrete GPU. To reiterate, **to be considered a full system build, the build must contain a discrete GPU currently being manufactured and sold,** such as Nvidia RTX 3000 and 2060 series, AMD RX 6000 series, and Nvidia GTX 1600 series. This discourages those shucking GPUs out of good builds and reselling here.
 
 **Marketplace regions** - Regions are based on Micro Center store location clusters, plus a National channel for shipped items. Below is how the stores have been grouped:
     * National - all stores

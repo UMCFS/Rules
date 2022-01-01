@@ -19,7 +19,8 @@ __Purchased from a private party sale or non-authorized retailer:__ the lowest v
     * National - all stores
     * West - Tustin, CA
     * Mountain - Denver, CO
-    * Midwest - St. Louis Park, MN; Overland Park, KS; Brentwood, MO; Westmont and Chicago, IL; Madison Heights, MI; Sharonville, Columbus, and Mayfield Heights, OH
+    * Midwest - St. Louis Park, MN; Overland Park, KS; Brentwood, MO; Westmont and Chicago, IL; Madison Heights, MI
+    * Ohio - Sharonville, Columbus, and Mayfield Heights, OH
     * Texas - Houston and Dallas
     * Georgia - Duluth and Marietta
     * DMV - Fairfax, VA; Rockville and Parkville, MD;  St. Davids, PA

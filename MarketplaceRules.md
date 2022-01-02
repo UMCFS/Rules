@@ -34,7 +34,7 @@ Post your listing in the region that contains the Micro Center store closest to 
 -You may list your item at its **cost** +$50 of profit.
 ```
 ```diff
--If your build qualifies as a full build, as defined above, you may list it at its **cost** +$200 of profit/build fees. Exception - if you are a legitmate business entity registered in your state, you may continue pricing your full build fees for your business channels as you do today, but any full builds listed here are capped at +$200.
+-If your build qualifies as a full build, as defined above, you may list it at its **cost** +$200 of profit/build fees. Exception - if you are a legitimate business entity registered in your state, you may continue pricing your full build fees for your business channels as you do today, but any full builds listed here are capped at +$200.
 ```
 This profit can be used to recoup gas, fulfill a finders fee, cover your time and labor, etc., and included in your cost breakdown (see below).
 

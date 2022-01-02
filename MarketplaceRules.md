@@ -34,17 +34,17 @@ Post your listing in the region that contains the Micro Center store closest to 
 -You may list your item at its **cost** +$50 of profit.
 ```
 ```diff
--If your build qualifies as a full build, as defined above, you may list it at its **cost** +$200 of profit/build fees. **Exception** - if you are a *legitmate business entity registered in your state*, you may continue pricing your full build fees for your business channels as you do today, but any full builds listed here are capped at +$200.
+-If your build qualifies as a full build, as defined above, you may list it at its **cost** +$200 of profit/build fees. Exception - if you are a legitmate business entity registered in your state, you may continue pricing your full build fees for your business channels as you do today, but any full builds listed here are capped at +$200.
 ```
 This profit can be used to recoup gas, fulfill a finders fee, cover your time and labor, etc., and included in your cost breakdown (see below).
 
-**You must include a breakdown of actual costs paid; this shows buyers how you calculated your listing price.** All potential buyers should request receipts from sellers. See [Listing Rules] for information on how to show these in your listing.
+ **You must include a breakdown of actual costs paid; this shows buyers how you calculated your listing price.** All potential buyers should request receipts from sellers. See [Listing Rules] for information on how to show these in your listing.
 
 **All transactions must follow this rule, including trade deals *on both ends*.**
 ```diff
 As a reminder, application of this rule extends beyond this marketplace; it includes your selling and trading activity outside of this server, such as on Reddit HWS and FB Marketplace.
 ```
-**Deliberate scalping here or elsewhere will result in ban.**
+Deliberate scalping here or elsewhere will result in ban.
 
 2. **Marketplace channels are limited to listings only.** Discussions and commentary about listings are not allowed within marketplace channels; your DMs should be open if you're expecting to negotiate for your marketplace listing.
 

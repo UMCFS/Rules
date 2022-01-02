@@ -32,9 +32,11 @@ Your listing should be posted to the region that contains the Micro Center store
 
 1. **NO SCALPING OR TAKING ADVANTAGE OF EXTREME MARKET DEMAND.**
 ```diff
--You may list your item at its **cost** +$50 of profit. If item qualifies as a full system build as defined above, you may list it at its **cost** +$200 of profit.
+-You may list your item at its **cost** +$50 of profit.
 ```
-This profit can be used to recoup gas, fufill a finders fee, cover your time and labor (especially for full system builds), etc. - it does not need to be justified or detailed, just included in your cost breakdown (see below).
+If item qualifies as a full system build as defined above, you may list it at its **cost** +$200 of profit/build fees. **Exception** - if you are a *legitmate business entity registered in your state*, you may continue pricing your full build fees for your business channels as you do today, but any full builds listed here are capped at +$200.
+
+This profit can be used to recoup gas, fufill a finders fee, cover your time and labor, etc. - it does not need to be justified or detailed, just included in your cost breakdown (see below).
 
 **You must include a breakdown of actual costs paid; this shows buyers how you calculated your listing price.** All potential buyers should request receipts from sellers. See [Listing Rules] for information on how to show these in your listing.
 

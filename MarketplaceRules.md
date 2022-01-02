@@ -1,7 +1,7 @@
 ```ini
 [Marketplace Rules]
 ```
-`Updated 1/1/2022`
+`Updated 1/2/2022`
 
 **Users must be __LEVEL 10__ to POST in the marketplace.** This is to protect buyers from scammers. You can check your level by typing \rank in <#809956837062737960>.
 
@@ -9,14 +9,13 @@
 
 **Base Value** -
 __Purchased from an authorized retailer:__ the amount of money paid for your item on a receipt after any discounts, but before taxes and other costs.
-__Purchased from a private party sale or non-authorized retailer:__ the lowest value between these sources shall be used: the actual item sale price (before tax and other costs), MSRP, or the current item pricing from an authorized retailer.
+__Purchased from a private party or non-authorized retailer:__ the lowest value between these sources shall be used: the actual item sale price (before tax etc.), MSRP, or the current item pricing from an authorized retailer.
 
 **(At) Cost** - Cost is the base value, plus applicable real, direct costs, such as tax paid, shipping charges paid, and the cost of a Micro Center transferrable warranty, if applicable.
 
-**Full system build** - A PC containing all of the necessary parts to function, minus peripherals (mouse, keyboard, monitor). A full build shall be assembled with a case, power supply, motherboard, CPU, memory, disk, and modern discrete GPU. To reiterate, **to be considered a full system build, the build must contain a discrete GPU currently being manufactured and sold,** such as Nvidia RTX 3000 and 2060 series, AMD RX 6000 series, and Nvidia GTX 1600 series. This discourages those shucking GPUs out of good builds and reselling here.
+**Full system build** - A functioning PC, minus peripherals and OS. A full build shall be assembled with a case, PSU, motherboard, CPU, RAM, disk, and modern GPU. **To qualify as a full system build, the PC must contain a discrete GPU currently being manufactured and sold** such as Nvidia RTX 3000, 2060 series, or 1600 series, or AMD RX 6000 series. This discourages those shucking GPUs out of pre-builts and reselling here.
 
 **Marketplace regions** - Regions are based on Micro Center store location clusters, plus a National channel for shipped items. Below is how the stores have been grouped:
-    * National - all stores
     * West - Tustin, CA
     * Mountain - Denver, CO
     * Midwest - St. Louis Park, MN; Overland Park, KS; Brentwood, MO; Westmont and Chicago, IL; Madison Heights, MI
@@ -26,7 +25,7 @@ __Purchased from a private party sale or non-authorized retailer:__ the lowest v
     * DMV - Fairfax, VA; Rockville and Parkville, MD;  St. Davids, PA
     * Northeast - North Jersey, NJ; Westbury, Yonkers, Flushing, and Brooklyn, NY; Cambridge, MA
 
-Your listing should be posted to the region that contains the Micro Center store closed to you. If you're willing to sell and ship domestically to a buyer using PayPal G&S, then you may cross-post to National.
+Post your listing in the region that contains the Micro Center store closest to you. If you're willing to sell and ship domestically to a buyer using PayPal G&S, then you may cross-post to National.
 
 *Now onto the rules:*
 
@@ -34,9 +33,10 @@ Your listing should be posted to the region that contains the Micro Center store
 ```diff
 -You may list your item at its **cost** +$50 of profit.
 ```
-If item qualifies as a full system build as defined above, you may list it at its **cost** +$200 of profit/build fees. **Exception** - if you are a *legitmate business entity registered in your state*, you may continue pricing your full build fees for your business channels as you do today, but any full builds listed here are capped at +$200.
-
-This profit can be used to recoup gas, fufill a finders fee, cover your time and labor, etc. - it does not need to be justified or detailed, just included in your cost breakdown (see below).
+```diff
+-If your build qualifies as a full build, as defined above, you may list it at its **cost** +$200 of profit/build fees. **Exception** - if you are a *legitmate business entity registered in your state*, you may continue pricing your full build fees for your business channels as you do today, but any full builds listed here are capped at +$200.
+```
+This profit can be used to recoup gas, fulfill a finders fee, cover your time and labor, etc., and included in your cost breakdown (see below).
 
 **You must include a breakdown of actual costs paid; this shows buyers how you calculated your listing price.** All potential buyers should request receipts from sellers. See [Listing Rules] for information on how to show these in your listing.
 

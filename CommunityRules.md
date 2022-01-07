@@ -1,11 +1,11 @@
-`Updated 12/20/2021`
+`Updated 1/7/2022`
  
 **We follow ALL Discord Community Guidelines and abide by ALL clauses in Discord's Terms of Service. The staff team has FULL discretion regarding CG and ToS violations:**
 
    `Discord Community Guidelines:` https://discord.com/guidelines
    `Discord Terms of Service:` https://discord.com/terms
 
-**You must read and agree to the rules by reacting to the :white_check_mark: at the bottom to gain access to the server**, at this point if you don't have access please read the rules again in their entirety before sending a DM to <@575252669443211264>.
+**You must read and agree to the rules by reacting to the :white_check_mark: at the bottom to gain access to the server.**
 
 ```diff
 - Note - Our moderation bot uses DMs to let users know when they've committed infractions. Failure to enable DMs on this server may result in eventual warn, mute, kick, or ban without notification.

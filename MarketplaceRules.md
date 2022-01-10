@@ -1,7 +1,7 @@
 ```ini
 [Marketplace Rules]
 ```
-`Updated 1/2/2022`
+`Updated 1/10/2022`
 
 **Users must be __LEVEL 10__ to POST in the marketplace.** This is to protect buyers from scammers. You can check your level by typing \rank in <#809956837062737960>.
 
@@ -11,7 +11,7 @@
 __Purchased from an authorized retailer:__ the amount of money paid for your item on a receipt after any discounts, but before taxes and other costs.
 __Purchased from a private party or non-authorized retailer:__ the lowest value between these sources shall be used: the actual item sale price (before tax etc.), MSRP, or the current item pricing from an authorized retailer.
 
-**(At) Cost** - Cost is the base value, plus applicable real, direct costs, such as tax paid, shipping charges paid, and the cost of a Micro Center transferrable warranty, if applicable.
+**(At) Cost** - Cost is the **Base Value**, plus applicable real, direct costs, such as tax paid, shipping charges paid, and the cost of a Micro Center transferrable warranty, if applicable.
 
 **Full system build** - A functioning PC, minus peripherals and OS. A full build shall be assembled with a case, PSU, motherboard, CPU, RAM, disk, and modern GPU. **To qualify as a full system build, the PC must contain a discrete GPU currently being manufactured and sold** such as Nvidia RTX 3000, 2060 series, or 1600 series, or AMD RX 6000 series. This discourages those shucking GPUs out of pre-builts and reselling here.
 

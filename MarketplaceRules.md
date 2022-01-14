@@ -1,9 +1,7 @@
 ```ini
 [Marketplace Rules]
 ```
-`Updated 1/10/2022`
-
-**Users must be __LEVEL 10__ to POST in the marketplace.** This is to protect buyers from scammers. You can check your level by typing \rank in <#809956837062737960>.
+`Updated 1/14/2022`
 
 *First, some things to define:*
 
@@ -31,10 +29,10 @@ Post your listing in the region that contains the Micro Center store closest to 
 
 1. **NO SCALPING OR TAKING ADVANTAGE OF EXTREME MARKET DEMAND.**
 ```diff
--You may list your item at its **cost** +$50 of profit.
+-You may list your item for no more than its **cost** +$50 of profit.
 ```
 ```diff
--If your build qualifies as a full build, as defined above, you may list it at its **cost** +$200 of profit/build fees. Exception - if you are a legitimate business entity registered in your state, you may continue pricing your full build fees for your business channels as you do today, but any full builds listed here are capped at +$200.
+-If your build qualifies as a full build, as defined above, you may list it for no more than its **cost** +$200 of profit/build fees. Exception - if you are a legitimate business entity registered in your state, you may continue pricing your full build fees for your business channels as you do today, but any full builds listed here are capped at +$200.
 ```
 This profit can be used to recoup gas, fulfill a finders fee, cover your time and labor, etc., and included in your cost breakdown (see below).
 
@@ -53,6 +51,8 @@ Deliberate scalping here or elsewhere will result in ban.
 ```ini
 [Listing Rules]
 ```
+**Users must be __LEVEL 10__ to POST in the marketplace.** This is to protect buyers from scammers. You can check your level by typing \rank in <#809956837062737960>.
+
 **Please follow H-W-L-N format.** H - have, W - want, L - location, N - notes , in that order. Example:
 ```
 [H] New EVGA 3080 FTW3 Ultra (paid $1035 with tax)
@@ -74,7 +74,7 @@ Notes may be used to indicate any additional information about your listing.
 
 9. **When using PayPal G&S, you cannot ask a buyer to explicitly pay for transactions fees.** For sake of our marketplace, you may include those fees in your "Shipping & Handling" costs. Otherwise asking a buyer to pay transactions fees directly is against PayPal's terms of use.
 
-10.  **Do not delete completed listings** If you have sold or traded your item, please edit the listing with ~~strikeout~~, and add **SOLD** or **TRADED**, but please do not delete. If you wish to withdraw your unfilfilled listing entirely, then it is OK to delete.
+10.  **Do not delete completed listings** If you have sold or traded your item, please edit the listing with ~~strikeout~~, and add **SOLD** or **TRADED**, but please do not delete. If you wish to withdraw your unfulfilled listing entirely, then it is OK to delete.
 ```ini
 [Notes]
 ```

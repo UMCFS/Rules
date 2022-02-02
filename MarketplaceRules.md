@@ -51,7 +51,7 @@ Deliberate scalping here or elsewhere will result in ban.
 ```ini
 [Listing Rules]
 ```
-**Users must be __LEVEL 10__ to POST in the marketplace.** This is to protect buyers from scammers. You can check your level by typing \rank in <#809956837062737960>.
+**Users must be Active Member status ("Green" / Level 10) or above to POST in the marketplace.** This is to protect buyers from scammers. You can check your level by typing \rank in <#809956837062737960>.
 
 **Please follow H-W-L-N format.** H - have, W - want, L - location, N - notes , in that order. Example:
 ```

@@ -1,9 +1,7 @@
 ```ini
 [Marketplace Rules]
 ```
-`Updated 1/2/2022`
-
-**Users must be __LEVEL 10__ to POST in the marketplace.** This is to protect buyers from scammers. You can check your level by typing \rank in <#809956837062737960>.
+`Updated 1/14/2022`
 
 *First, some things to define:*
 
@@ -11,7 +9,7 @@
 __Purchased from an authorized retailer:__ the amount of money paid for your item on a receipt after any discounts, but before taxes and other costs.
 __Purchased from a private party or non-authorized retailer:__ the lowest value between these sources shall be used: the actual item sale price (before tax etc.), MSRP, or the current item pricing from an authorized retailer.
 
-**(At) Cost** - Cost is the base value, plus applicable real, direct costs, such as tax paid, shipping charges paid, and the cost of a Micro Center transferrable warranty, if applicable.
+**(At) Cost** - Cost is the **Base Value**, plus applicable real, direct costs, such as tax paid, shipping charges paid, and the cost of a Micro Center transferrable warranty, if applicable.
 
 **Full system build** - A functioning PC, minus peripherals and OS. A full build shall be assembled with a case, PSU, motherboard, CPU, RAM, disk, and modern GPU. **To qualify as a full system build, the PC must contain a discrete GPU currently being manufactured and sold** such as Nvidia RTX 3000, 2060 series, or 1600 series, or AMD RX 6000 series. This discourages those shucking GPUs out of pre-builts and reselling here.
 
@@ -31,10 +29,10 @@ Post your listing in the region that contains the Micro Center store closest to 
 
 1. **NO SCALPING OR TAKING ADVANTAGE OF EXTREME MARKET DEMAND.**
 ```diff
--You may list your item at its **cost** +$50 of profit.
+-You may list your item for no more than its **cost** +$50 of profit.
 ```
 ```diff
--If your build qualifies as a full build, as defined above, you may list it at its **cost** +$200 of profit/build fees. Exception - if you are a legitimate business entity registered in your state, you may continue pricing your full build fees for your business channels as you do today, but any full builds listed here are capped at +$200.
+-If your build qualifies as a full build, as defined above, you may list it for no more than its **cost** +$200 of profit/build fees. Exception - if you are a legitimate business entity registered in your state, you may continue pricing your full build fees for your business channels as you do today, but any full builds listed here are capped at +$200.
 ```
 This profit can be used to recoup gas, fulfill a finders fee, cover your time and labor, etc., and included in your cost breakdown (see below).
 
@@ -48,11 +46,13 @@ Deliberate scalping here or elsewhere will result in ban.
 
 2. **Marketplace channels are limited to listings only.** Discussions and commentary about listings are not allowed within marketplace channels; your DMs should be open if you're expecting to negotiate for your marketplace listing.
 
-3. **Any offer to sell or trade hardware must be listed in the marketplace.** This prevents those below Level 10 ("Active Member" / Green) from offering items for sale ad-hoc in other channels of the server. You may link to your marketplace-listed offering in chat channels, but you may not outright offer to sell or trade items on this server outside of the marketplace.
+3. **Any offer to sell or trade hardware must be listed in the marketplace.** This prevents those below Active Member status ("Green" / Level 10) from offering items for sale ad-hoc in other channels of the server. You may link to your marketplace-listed offering in chat channels, but you may not outright offer to sell or trade items on this server outside of the marketplace.
 <--- POST LINE BREAK --->
 ```ini
 [Listing Rules]
 ```
+**Users must be Active Member status ("Green" / Level 10) or above to POST in the marketplace.** This is to protect buyers from scammers. You can check your level by typing \rank in <#809956837062737960>.
+
 **Please follow H-W-L-N format.** H - have, W - want, L - location, N - notes , in that order. Example:
 ```
 [H] New EVGA 3080 FTW3 Ultra (paid $1035 with tax)
@@ -74,7 +74,7 @@ Notes may be used to indicate any additional information about your listing.
 
 9. **When using PayPal G&S, you cannot ask a buyer to explicitly pay for transactions fees.** For sake of our marketplace, you may include those fees in your "Shipping & Handling" costs. Otherwise asking a buyer to pay transactions fees directly is against PayPal's terms of use.
 
-10.  **Do not delete completed listings** If you have sold or traded your item, please edit the listing with ~~strikeout~~, and add **SOLD** or **TRADED**, but please do not delete. If you wish to withdraw your unfilfilled listing entirely, then it is OK to delete.
+10.  **Do not delete completed listings** If you have sold or traded your item, please edit the listing with ~~strikeout~~, and add **SOLD** or **TRADED**, but please do not delete. If you wish to withdraw your unfulfilled listing entirely, then it is OK to delete.
 ```ini
 [Notes]
 ```

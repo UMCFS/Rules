@@ -1,4 +1,4 @@
-`Updated 1/7/2022`
+`Updated 1/14/2022`
  
 **We follow ALL Discord Community Guidelines and abide by ALL clauses in Discord's Terms of Service. The staff team has FULL discretion regarding CG and ToS violations:**
 
@@ -39,7 +39,7 @@ For more information on this rule, including how scalping is defined, please see
 ```diff
 - TOS INTERPRETATIONS FOR OUR SERVER
 ```
-10. **Ban evasion IS FORBIDDEN.** Creating a new account to get around a ban will result in your new account being banned, along with report to Discord Trust and Safety, who will likely terminate all of your accounts permanently.
+10. **Ban evasion is FORBIDDEN.** Creating a new account to get around a ban will result in your new account being banned, along with report to Discord Trust and Safety, who will likely terminate all of your accounts permanently.
 
 11. **Any discussion of non-official retailers of keys and licensure for games, operating systems, etc. IS NOT ALLOWED.** Secondhand marketplaces such as G2A and Kinguin contain keys of unknown origin - This means your purchase may of been legal, but the origin of the purchase may have not. 
 

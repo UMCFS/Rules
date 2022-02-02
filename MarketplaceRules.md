@@ -46,7 +46,7 @@ Deliberate scalping here or elsewhere will result in ban.
 
 2. **Marketplace channels are limited to listings only.** Discussions and commentary about listings are not allowed within marketplace channels; your DMs should be open if you're expecting to negotiate for your marketplace listing.
 
-3. **Any offer to sell or trade hardware must be listed in the marketplace.** This prevents those below Level 10 ("Active Member" / Green) from offering items for sale ad-hoc in other channels of the server. You may link to your marketplace-listed offering in chat channels, but you may not outright offer to sell or trade items on this server outside of the marketplace.
+3. **Any offer to sell or trade hardware must be listed in the marketplace.** This prevents those below Active Member status ("Green" / Level 10) from offering items for sale ad-hoc in other channels of the server. You may link to your marketplace-listed offering in chat channels, but you may not outright offer to sell or trade items on this server outside of the marketplace.
 <--- POST LINE BREAK --->
 ```ini
 [Listing Rules]

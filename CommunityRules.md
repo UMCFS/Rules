@@ -1,4 +1,4 @@
-`Updated 1/14/2022`
+`Updated 2/3/2022`
  
 **We follow ALL Discord Community Guidelines and abide by ALL clauses in Discord's Terms of Service. The staff team has FULL discretion regarding CG and ToS violations:**
 
@@ -56,7 +56,7 @@ For more information on this rule, including how scalping is defined, please see
 ```diff
 - NOTES
 ```
-**We are not responsible for activity in DMs.** There can be times when people DM you regarding information in stores, or regarding marketplace interactions or other content. Use your best judgement when clicking on links or negotiating deals. We actively watch out for potential scam events, but cannot prevent or reverse a scam.
+**We are not responsible for information shared in DMs.** There can be times when people DM you regarding information in stores, or regarding marketplace interactions or other content. Use your best judgement when clicking on links or negotiating deals. This does not mean that our rules about hate speech and kindness and threats do not apply - they most certainly do.
  
 **Report any suspicious activity to <@575252669443211264>. DMing a staff member will be a slow response.**
 

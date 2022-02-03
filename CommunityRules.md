@@ -14,9 +14,9 @@
 - RULES
 ```
 1. **NO SCALPING OR TAKING ADVANTAGE OF EXTREME MARKET DEMAND.** 
-We do not condone scalping or users taking advantage of extreme market demand caused by shortages. It encourages toxic conversation and behavior, adds no economic value, and causes hardship and frustration for users who want to buy hardware at a reasonable price. **Users will be banned if found scalping.**
+We prohibit scalping or users taking advantage of extreme market demand caused by shortages. It encourages toxic conversation and behavior, adds no economic value, causing hardship and frustration for users who want to buy hardware at a reasonable price. **Users will be banned if found scalping.**
 
-**Note:** By being a member of this server, you agree not to scalp on this server nor in any other marketplaces; i.e. no scalping on Ebay, Reddit HWS, Facebook Marketplace, etc.  We have this strict rule for a reason - what point is there to allow people to scalp in other marketplaces and utilize the resources of our community when it is against our rules?
+**Note:** By being a member of this server, you agree not to scalp on this Discord nor in any other Discords or external marketplaces; i.e. no scalping on eBay, Reddit /r/hardwareswap, Facebook Marketplace, etc. We have this strict rule for a reason - what point is there to allow users access to our anti-scalper community and resources if they're used to scalp in other marketplaces?
 
 For more information on this rule, including how scalping is defined, please see <#892606881581899826>. 
  

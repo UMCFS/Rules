@@ -55,7 +55,7 @@ For more information on this rule, including how scalping is defined, please see
 ```diff
 - SAFETY/SECURITY NOTES
 ```
-**Strongly consider enabled 2FA on your Discord account, if you haven't already** Phishing attacks unfortunately do happen, and should you accidentally click on a malicious link, 2FA will save you and your account from compromise.
+**Strongly consider enabling 2FA on your Discord account, if you haven't already.** Phishing attacks unfortunately do happen, and should you accidentally click on a malicious link, 2FA will save you and your account from compromise.
 
 **Report any suspicious activity to <@575252669443211264>.** This allows all of staff to assist you with your concern.
 

@@ -59,7 +59,7 @@ For more information on this rule, including how scalping is defined, please see
 
 **Report any suspicious activity to <@575252669443211264>.** This allows all of staff to assist you with your concern.
 
-**We are not responsible for information shared in DMs.** There can be times when people DM you regarding information in stores, or regarding marketplace interactions or other content. Use your best judgement when clicking on links or negotiating deals. This does not mean that our rules about hate speech and kindness and threats do not apply - they most certainly do.
+**We are not responsible for information shared in DMs.** There can be times when people DM you regarding information in stores, or regarding marketplace interactions or other content. Use your best judgement when clicking on links or negotiating deals. This does not mean that our rules about hate speech and kindness and threats do not apply in DMs - they most certainly do.
 ```diff
 - OTHER NOTES
 ```

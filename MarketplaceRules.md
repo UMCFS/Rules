@@ -36,7 +36,7 @@ Post your listing in the region that contains the Micro Center store closest to 
 ```
 This profit can be used to recoup gas, fulfill a finders fee, cover your time and labor, etc., and included in your cost breakdown (see below).
 
- **You must include a breakdown of actual costs paid; this shows buyers how you calculated your listing price.** All potential buyers should request receipts from sellers. See [Listing Rules] for information on how to show these in your listing.
+**You must include a breakdown of actual costs paid; this shows buyers how you calculated your listing price.** All potential buyers should request receipts from sellers. See [Listing Rules] for information on how to show these in your listing.
 
 **All transactions must follow this rule, including trade deals *on both ends*.**
 ```diff

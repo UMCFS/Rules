@@ -1,4 +1,4 @@
-`Updated 1/14/2022`
+`Updated 2/10/2022`
  
 **We follow ALL Discord Community Guidelines and abide by ALL clauses in Discord's Terms of Service. The staff team has FULL discretion regarding CG and ToS violations:**
 
@@ -14,9 +14,9 @@
 - RULES
 ```
 1. **NO SCALPING OR TAKING ADVANTAGE OF EXTREME MARKET DEMAND.** 
-We do not condone scalping or users taking advantage of extreme market demand caused by shortages. It encourages toxic conversation and behavior, adds no economic value, and causes hardship and frustration for users who want to buy hardware at a reasonable price. **Users will be banned if found scalping.**
+We prohibit scalping or users taking advantage of extreme market demand caused by shortages. It encourages toxic conversation and behavior, adds no economic value, causing hardship and frustration for users who want to buy hardware at a reasonable price. **Users will be banned if found scalping.**
 
-**Note:** By being a member of this server, you agree not to scalp on this server nor in any other marketplaces; i.e. no scalping on Ebay, Reddit HWS, Facebook Marketplace, etc.  We have this strict rule for a reason - what point is there to allow people to scalp in other marketplaces and utilize the resources of our community when it is against our rules?
+**Note:** By being a member of this server, you agree not to scalp on this Discord nor in any other Discords or external marketplaces; i.e. no scalping on eBay, Reddit /r/hardwareswap, Facebook Marketplace, etc. We have this strict rule for a reason - what point is there to allow users access to our anti-scalper community and resources if they're used to scalp in other marketplaces?
 
 For more information on this rule, including how scalping is defined, please see <#892606881581899826>. 
  
@@ -39,34 +39,36 @@ For more information on this rule, including how scalping is defined, please see
 ```diff
 - TOS INTERPRETATIONS FOR OUR SERVER
 ```
-10. **Ban evasion is FORBIDDEN.** Creating a new account to get around a ban will result in your new account being banned, along with report to Discord Trust and Safety, who will likely terminate all of your accounts permanently.
+10. **Ban evasion is forbidden.** Creating a new account to get around a ban will result in your new account being banned, along with report to Discord Trust and Safety, who will likely terminate all of your accounts permanently.
 
-11. **Any discussion of non-official retailers of keys and licensure for games, operating systems, etc. IS NOT ALLOWED.** Secondhand marketplaces such as G2A and Kinguin contain keys of unknown origin - This means your purchase may of been legal, but the origin of the purchase may have not. 
+11. **Discussion of non-official retailers of keys and licensure for games, operating systems, etc. forbidden.** Secondhand marketplaces such as G2A and Kinguin contain keys of unknown origin - this means your purchase may of been legal, but the origin of the purchase may have not. 
 
-12. **Posting NSFW content is FORBIDDEN.** Gore (and sadistic content), sexual content, nudity, glorification of suicide, murder, violence, extremism are not allowed. This includes in meme format.
+12. **Posting NSFW content is forbidden.** Gore (and sadistic content), sexual content, nudity, glorification of suicide, murder, violence, extremism are not allowed. This includes in meme format.
 
-13. **Hate speech is FORBIDDEN.** We do not condone hate speech of any race, ethnicity, sexual orientation, gender, socio-economic status, religious affiliation or disability. This includes meme content. Users violating this rule will be banned.
+13. **Hate speech is forbidden.** We do not condone hate speech of any race, ethnicity, sexual orientation, gender, socio-economic status, religious affiliation or disability. This includes meme content. Users violating this rule will be banned.
 
 14. **Threats will be taken seriously.** There have been a number of instances in our server history where people have made threats involving guns, knifes, etc. USERS WILL BE BANNED FOR THIS. 
  
 15. **We oppose the discussion of bots in the server.** This is case-by-case, but in many instances bots are used with the intention to purchase multiple and resell. This goes against the mission of the server, and in many cases the terms of service for respective companies. 
 
-16. **Doxxing is FORBIDDEN.** (Doxxing is revealing identifying/IRL information about someone online)
-
+16. **Doxxing is forbidden.** Doxxing is the revealing of *private* identifying information about someone, in an online setting.
 ```diff
-- NOTES
+- SAFETY/SECURITY NOTES
 ```
-**We are not responsible for activity in DMs.** There can be times when people DM you regarding information in stores, or regarding marketplace interactions or other content. Use your best judgement when clicking on links or negotiating deals. We actively watch out for potential scam events, but cannot prevent or reverse a scam.
- 
-**Report any suspicious activity to <@575252669443211264>. DMing a staff member will be a slow response.**
+**Strongly consider enabled 2FA on your Discord account, if you haven't already** Phishing attacks unfortunately do happen, and should you accidentally click on a malicious link, 2FA will save you and your account from compromise.
+
+**Report any suspicious activity to <@575252669443211264>.** This allows all of staff to assist you with your concern.
+
+**We are not responsible for information shared in DMs.** There can be times when people DM you regarding information in stores, or regarding marketplace interactions or other content. Use your best judgement when clicking on links or negotiating deals. This does not mean that our rules about hate speech and kindness and threats do not apply - they most certainly do.
+```diff
+- OTHER NOTES
+```
+**All buying and selling activity should be conducted through the Marketplace.** The marketplace is a feature designed to accommodate the community, but isn't the main feature of this server. It has its own set of rules, detailed in <#892606881581899826>. Please take a look at them if you intend to buy or sell hardware here.
 
 **For EVGA and Newegg wins, you are permitted to "give" them to other users.** You may not sell them in the marketplace, however, until items are in-hand. We are not responsible for any data leaks or compromised information should you choose to allow others to log into your accounts. Please see <#892606881581899826> for more information.
  
-**Discord links are disabled.** This is because of some NSFW servers and bot protection.
+**Discord links are disabled.** This is mostly to prevent bot spam and other phishing attacks.
  
-**Slowmode channels are slowmode for a reason.** Look before you type. For example, our server has stock-alert channels designed specifically to notify people of stock at a particular store. As stated above, asking questions in stock-alerts channels is considered spam and will be removed.
- 
-**Marketplace is a privilege.** Marketplace is a feature designed to accommodate the community. It is not the main feature of this server. At any point that we deem it more bad than good, we will remove it. Let's make it fair and good for everyone.
-
+**Slowmode channels are slowmode for a reason.** Look before you type. For example, our server has stock-alert channels intended specifically to notify people of stock at a particular store. As stated above, asking questions in stock-alerts channels is considered spam and will be removed.
 
 By reacting to this message (by clicking or tapping :white_check_mark:), you agree to the rules stated above and policies enforced by the server, Discord, Micro Center, and relevant parties.

@@ -13,10 +13,10 @@ Here's a brief description of the channel categories that are in the server:
 [OFF-TOPIC] - Non-technology related chat channels, like cars and music.
 ```
 ```ini
-[MARKETPLACE] - selling and trading posts, divided up into time zone regions. Marketplace rules are also located here.
-
-LEVEL 10 (Active Member/"Green") required to list in the marketplace.
+[MARKETPLACE] - selling and trading posts, divided up into geographic store regions. Active Member status ("Green" / Mee6 Level 10) required to list items in the marketplace. 
 ```
+Marketplace has its own set of rules in <#892606881581899826>.
+
 We hope that you have a fun and joyful experience in our server!
 
 If you need help with joining the server, please submit a ticket to @ModMail#5460

@@ -17,30 +17,30 @@ We prohibit scalping or users taking advantage of extreme market demand caused b
 **Note:** By being a member of this server, you agree not to scalp on this Discord nor in any other Discords or external marketplaces; i.e. no scalping on eBay, Reddit /r/hardwareswap, Facebook Marketplace, etc. We have this strict rule for a reason - what point is there to allow users access to our anti-scalper community and resources if they're used to scalp in other marketplaces?
 
 For more information on this rule, including how scalping is defined, please see <#892606881581899826>. 
- 
-2. **Violating, or encouraging the violation of Micro Center policies, or committing return fraud, is strictly prohibited.**
 
-3. **Be kind and respectful.**
+2. **Be kind and respectful.**
 
-4. **No political discussion.**
+3. **No political discussion.**
 
-5. **No spam. Violations will result in warnings and/or mutes.** Bots will be removed.
+4. **Spreading false information __maliciously__ is prohibited.** We will not accept users trying to misguide others. Content that is false or misleading and may lead to significant risk of physical or societal harm is considered a Discord Community Guideline violation.
 
-6. **Spreading false information __maliciously__ is prohibited.** We will not accept users trying to misguide others. Staff will determine collaboratively if malicious intention is present.
+5. **Referral links to products are not allowed.** Referral codes (EVGA Associates) is an exception: please keep them in your bio or status, not your nickname or display name; a reference in your nickname may be added to refer to your bio or status, e.g. "Nickname (EVGA code in bio)".
 
-7. **Referral links to products are not allowed.** Referral codes (EVGA Associates) is an exception: please keep them in your bio or status, not your nickname or display name; a reference in your nickname may be added to refer to your bio or status, e.g. "Nickname (EVGA code in bio)".
+6. **Advertising other servers whether in the server or in dms, without the permission of an admin is forbidden.** Please DM <@575252669443211264> if you would like to request permission to share a particular server.
 
-8. **Advertising other servers whether in the server or in dms, without the permission of an admin is forbidden.** Please DM <@575252669443211264> if you would like to request permission to share a particular server.
-
-9. **Don't ask questions about stock in stock-alerts channels.** Messages in stock-alerts channels should be limited to *providing* information about what's in stock at the store. Questions about stock can be directed to specific store-chat channels.
+7. **Don't ask questions about stock in stock-alerts channels.** Messages in stock-alerts channels should be limited to *providing* information about what's in stock at the store. Questions about stock can be directed to specific store-chat channels.
 <--- POST BREAK HERE --->
 ```ini
 [TOS INTERPRETATIONS FOR OUR SERVER]
 ```
-**We follow ALL Discord Community Guidelines and abide by ALL clauses in Discord's Terms of Service. The staff team has FULL discretion regarding CG and ToS violations:**
+**We follow all Discord Community Guidelines and abide by all clauses in Discord's Terms of Service. The staff team has complete discretion regarding these violations:
 
    `Discord Community Guidelines:` https://discord.com/guidelines
    `Discord Terms of Service:` https://discord.com/terms
+
+8. **Violating, or encouraging the violation of Micro Center policies, or committing return fraud, is strictly prohibited.** Discord Community Guidelines as of Mar. 28, 2022 consider relevant off-platform behavior when making policy and enforcement assessments, such as membership or association with a hate group, *illegal activities*, and hateful, violent sexual, or other types of violent acts.
+
+9. **Do not spam. Violations will result in warnings and/or mutes.**
 
 10. **Ban evasion is forbidden.** Creating a new account to get around a ban will result in your new account being banned, along with report to Discord Trust and Safety, who will likely terminate all of your accounts permanently.
 

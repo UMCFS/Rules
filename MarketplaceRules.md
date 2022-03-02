@@ -40,12 +40,10 @@ This profit can be used to recoup gas, fulfill a finders fee, cover your time an
 
 **This rule applies to trade deals as well *on both ends*.** Where cash is supplied by whichever party has the lower overall cost.
 
-And while we vehmently discourage buying from scalpers or encouraging others to do so, we don't intend to ban buyers who have purchased from scalpers. Encouraging such behavior, though, will result in warnings being issued.
+And while we vehemently discourage buying from scalpers or encouraging others to do so, we don't intend to ban buyers who have purchased from scalpers.
 ```diff
-As a reminder, application of this rule extends beyond this marketplace; it includes your selling and trading activity outside of this server, such as on Reddit HWS and FB Marketplace.
+- As a reminder, application of this rule extends beyond this marketplace; it includes your selling and trading activity outside of this server, such as on Reddit HWS and FB Marketplace. Scalping off server will result in a ban.
 ```
-Deliberate scalping here or elsewhere will result in ban.
-
 2. **Marketplace channels are limited to listings only.** Discussions and commentary about listings are not allowed within marketplace channels; your DMs should be open if you're expecting to negotiate for your marketplace listing.
 
 3. **Any offer to sell or trade hardware must be listed in the marketplace.** This prevents those below Active Member status ("Green" / Level 10) from offering items for sale ad-hoc in other channels of the server. You may link to your marketplace-listed offering in chat channels, but you may not outright offer to sell or trade items on this server outside of the marketplace.

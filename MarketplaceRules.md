@@ -1,7 +1,7 @@
 ```ini
 [Marketplace Rules]
 ```
-`Updated 1/14/2022`
+`Updated 3/2/2022`
 
 *First, some things to define:*
 
@@ -38,7 +38,9 @@ This profit can be used to recoup gas, fulfill a finders fee, cover your time an
 
 **You must include a breakdown of actual costs paid; this shows buyers how you calculated your listing price.** All potential buyers should request receipts from sellers. See [Listing Rules] for information on how to show these in your listing.
 
-**All transactions must follow this rule, including trade deals *on both ends*.** And while we vehmently discourage buying from scalpers or encouraging others to do so, we don't intend to ban buyers who have purchased from scalpers. Encouraging such behavior, though, will result in warnings being issued.
+**This rule applies to trade deals as well *on both ends*.** Where cash is supplied by whichever party has the lower overall cost.
+
+And while we vehmently discourage buying from scalpers or encouraging others to do so, we don't intend to ban buyers who have purchased from scalpers. Encouraging such behavior, though, will result in warnings being issued.
 ```diff
 As a reminder, application of this rule extends beyond this marketplace; it includes your selling and trading activity outside of this server, such as on Reddit HWS and FB Marketplace.
 ```

@@ -1,7 +1,7 @@
 ```ini
 [Marketplace Rules]
 ```
-`Updated 3/2/2022`
+`Updated 3/11/2022`
 
 *First, some things to define:*
 
@@ -64,7 +64,7 @@ Notes may be used to indicate any additional information about your listing.
 
 4. **Marketplace is intended for hardware only.** We intend for computer components, peripherals, and other DIY-related content to be posted in the marketplace. There is some leeway with this, since hardware is loosely defined, but obscure or unrelated content will be removed, such as couches.
 
-5. **All listings require a timestamp.** You must take a picture of the item with your username and date somewhere in the image. It cannot be digitally added to a picture (i.e. photoshopped); must be either handwritten or displayed on a digital device in the photo, like a tablet or phone.
+5. **All listings require a current timestamp.** You must take a picture of the item with your username and date somewhere in the image. It cannot be digitally added to a picture (i.e. photoshopped); must be either handwritten or displayed on a digital device in the photo, like a tablet or phone.
 
 6. **All items in listings must be physically in hand.** No posting pictures of a Newegg win prior to buying or receiving it. Have the item in hand, then post.
 

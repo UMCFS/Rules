@@ -70,7 +70,7 @@ Notes may be used to indicate any additional information about your listing.
 
 7. **All selling listings require an asking price.**
 
-8. **Want-to-buy requests are not allowed.** WTB listings encourage scalpers.
+8. **Want-to-buy requests are now allowed in the proper marketplace channel** WTB listings follow the same H-W-L-N format as sales listings, where [H] is a dollar amount the prospective buyer is willing to pay (simply writing "cash/paypal" or the like not acceptable) for what you want in [W]. These listings must be posted into <#966469449676914719>; no other marketplace channels are appropriate for WTB posts.
 
 9. **When using PayPal G&S, you cannot ask a buyer to explicitly pay for transactions fees.** For sake of our marketplace, you may include those fees in your "Shipping & Handling" costs. Otherwise asking a buyer to pay transactions fees directly is against PayPal's terms of use.
 

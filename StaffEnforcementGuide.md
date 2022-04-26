@@ -1,7 +1,7 @@
 ```diff
 - RULE ENFORCEMENT GUIDE
 
-UPDATED 4/1/22
+UPDATED 4/26/22
 
 - STAFF DISCRETION GUIDELINES:
 
@@ -9,10 +9,11 @@ Small Infraction Actions = Warnings
 Large Infraction Actions = Mutes (6 hours) (24 hours) (3 days)
 Last resort (when other methods have not curbed bad behavior) = Ban
 
-Conduct is numbered based on current server rules
+**Consider three "strikes" per quarter, unless it feels like the user is escalating behavior over time.**
 
 All offending posts should be removed, with exception of some marketplace infractions
 ```
+<--- POST BREAK HERE --->
 ```diff
 - GENERAL RULES
 ```
@@ -68,6 +69,7 @@ ESCALATION IS AS FOLLOWS:
 *Third offense - Mute for 3 days
 *Fourth offense - Ban
 ```
+<--- POST BREAK HERE --->
 ```diff
 - MARKETPLACE RULES
 ```

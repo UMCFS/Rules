@@ -1,4 +1,4 @@
-`Updated 2/10/2022`
+`Updated 4/26/2022`
  
 **We follow ALL Discord Community Guidelines and abide by ALL clauses in Discord's Terms of Service. The staff team has FULL discretion regarding CG and ToS violations:**
 
@@ -8,13 +8,16 @@
 **You must read and agree to the rules by reacting to the :white_check_mark: at the bottom to gain access to the server.**
 
 ```diff
-- Note - Our moderation bot uses DMs to let users know when they've committed infractions. Failure to enable DMs on this server may result in eventual warn, mute, kick, or ban without notification.
+- Note - Our moderation bots (Warship and Dyno) uses DMs to let users know when they've committed infractions. Failure to enable DMs on this server may result in eventual warn, mute, kick, or ban without notification.
 ```
 ```diff
 - RULES
 ```
 1. **NO SCALPING OR TAKING ADVANTAGE OF EXTREME MARKET DEMAND.** 
-We prohibit scalping or users taking advantage of extreme market demand caused by shortages. It encourages toxic conversation and behavior, adds no economic value, causing hardship and frustration for users who want to buy hardware at a reasonable price. **Users will be banned if found scalping.**
+Scalping has many similiar definitions, but we define scalping in two ways:
+ * Taking advantage of market shortages by selling in-demand far above cost
+ * Deliberate purchasing of in-demand items with the express intent to resell for profit
+These behaviors encourages toxic conversation and behavior, add no economic value, causing hardship and frustration for users who want to buy hardware at a reasonable price. **Users will be banned if found scalping.**
 
 **Note:** By being a member of this server, you agree not to scalp on this Discord nor in any other Discords or external marketplaces; i.e. no scalping on eBay, Reddit /r/hardwareswap, Facebook Marketplace, etc. We have this strict rule for a reason - what point is there to allow users access to our anti-scalper community and resources if they're used to scalp in other marketplaces?
 

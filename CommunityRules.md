@@ -1,4 +1,4 @@
-`Updated 4/26/2022`
+`Updated 4/28/2022`
  
 **We follow ALL Discord Community Guidelines and abide by ALL clauses in Discord's Terms of Service. The staff team has FULL discretion regarding CG and ToS violations:**
 
@@ -33,9 +33,9 @@ For more information on this rule, including how scalping is defined, please see
 
 6. **Spreading false information __maliciously__ is prohibited.** We will not accept users trying to misguide others. Staff will determine collaboratively if malicious intention is present.
 
-7. **Referral links to products are not allowed.** Referral codes (EVGA Associates) is an exception: please keep them in your bio or status, not your nickname or display name; a reference in your nickname may be added to refer to your bio or status, e.g. "Nickname (EVGA code in bio)".
+7. **Links to fundraisers, or products with embedded referral codes are not allowed.** This includes GoFundMe links, or links such as EVGA product links with associatecode=xxx in the URL. For EVGA associates referral codes and the like, please keep them in your bio or status, not your nickname or display name; a reference in your nickname may be added to refer to your bio or status, e.g. "Nickname (EVGA code in bio)".
 
-8. **Advertising other servers whether in the server or in dms, without the permission of an admin is forbidden.** Please DM <@575252669443211264> if you would like to request permission to share a particular server.
+8. **Advertising other Discords, whether in the server or in DMs, without the permission of an admin is forbidden.** Please DM <@575252669443211264> if you would like to request permission to share a particular server.
 
 9. **Don't ask questions about stock in stock-alerts channels.** Messages in stock-alerts channels should be limited to *providing* information about what's in stock at the store. Questions about stock can be directed to specific store-chat channels.
 <--- POST BREAK HERE --->

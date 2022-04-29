@@ -1,14 +1,14 @@
-`Updated 4/28/2022`
+`Updated 4/29/2022`
  
 **We follow ALL Discord Community Guidelines and abide by ALL clauses in Discord's Terms of Service. The staff team has FULL discretion regarding CG and ToS violations:**
 
    `Discord Community Guidelines:` https://discord.com/guidelines
    `Discord Terms of Service:` https://discord.com/terms
 
-**You must read and agree to the rules by reacting to the :white_check_mark: at the bottom to gain access to the server.**
+**You must read and agree to the rules to gain access to the server.**
 
 ```diff
-- Note - Our moderation bots (Warship and Dyno) uses DMs to let users know when they've committed infractions. Failure to enable DMs on this server may result in eventual warn, mute, kick, or ban without notification.
+- Note - Our moderation bots (Warship and Dyno) use DMs to let users know when they've committed infractions. Failure to enable DMs on this server may result in eventual warn, mute, kick, or ban without notification.
 ```
 ```diff
 - RULES
@@ -42,11 +42,6 @@ For more information on this rule, including how scalping is defined, please see
 ```ini
 [TOS INTERPRETATIONS FOR OUR SERVER]
 ```
-**We follow ALL Discord Community Guidelines and abide by ALL clauses in Discord's Terms of Service. The staff team has FULL discretion regarding CG and ToS violations:**
-
-   `Discord Community Guidelines:` https://discord.com/guidelines
-   `Discord Terms of Service:` https://discord.com/terms
-
 10. **Ban evasion is forbidden.** Creating a new account to get around a ban will result in your new account being banned, along with report to Discord Trust and Safety, who will likely terminate all of your accounts permanently.
 
 11. **Discussion of non-official retailers of keys and licensure for games, operating systems, etc. forbidden.** Secondhand marketplaces such as G2A and Kinguin contain keys of unknown origin - this means your purchase may of been legal, but the origin of the purchase may have not. 
@@ -55,7 +50,7 @@ For more information on this rule, including how scalping is defined, please see
 
 13. **Hate speech is forbidden.** We do not condone hate speech of any race, ethnicity, sexual orientation, gender, socio-economic status, religious affiliation or disability. This includes meme content. Users violating this rule will be banned.
 
-14. **Threats will be taken seriously.** There have been a number of instances in our server history where people have made threats involving guns, knifes, etc. USERS WILL BE BANNED FOR THIS. 
+14. **Threats will be taken seriously.** There have been a number of instances in our server history where people have made threats involving guns, knifes, etc.
  
 15. **We oppose the discussion of bots in the server.** This is case-by-case, but in many instances bots are used with the intention to purchase multiple and resell. This goes against the mission of the server, and in many cases the terms of service for respective companies. 
 
@@ -71,12 +66,14 @@ For more information on this rule, including how scalping is defined, please see
 ```ini
 [OTHER NOTES]
 ```
-**All buying and selling activity must be conducted through the Marketplace.** The marketplace is a feature designed to accommodate the community, but isn't the main feature of this server. It has its own set of additional rules, detailed in #📜-marketplace-rules. If you intend to buy or sell hardware here, you must read and accept them.
+**All buying and selling activity must be conducted through the Marketplace.** The marketplace is a feature designed to accommodate the community, but isn't the main feature of this server. It has its own set of additional rules, detailed in <#892606881581899826>. If you intend to buy or sell hardware here, you must read and accept them.
 
-**For EVGA and Newegg wins, you are permitted to "give" them to other users.** You may not sell them in the marketplace, however, until items are in-hand. We are not responsible for any data leaks or compromised information should you choose to allow others to log into your accounts. Please see #📜-marketplace-rules for more information.
+**For EVGA and Newegg wins, you are permitted to "give" them to other users.** You may not sell them in the marketplace, however, until items are in-hand. We are not responsible for any data leaks or compromised information should you choose to allow others to log into your accounts. Please see <#892606881581899826> for more information.
  
 **Discord links are disabled.** This is mostly to prevent bot spam and other phishing attacks.
  
-**Slowmode channels are slowmode for a reason.** Look before you type. For example, our server has stock-alert channels intended specifically to notify people of stock at a particular store. As stated above, asking questions in stock-alerts channels is considered spam and will be removed.
-
-By reacting to this message (by clicking or tapping :white_check_mark:), you agree to the rules stated above and policies enforced by the server, Discord, Micro Center, and relevant parties.
+**Slowmode has been enabled on certain channels.** For example, our server has stock-alert channels intended specifically to notify people of stock at a particular store. As stated above, asking questions in stock-alerts channels is considered spam and will be removed.
+```ini
+[ACKNOWLEDGEMENT AND ACCEPTANCE]
+```
+**By reacting to this message (by clicking or tapping :white_check_mark:), you accept the rules stated above, and policies enforced by the server, Discord, Micro Center, and relevant parties.**

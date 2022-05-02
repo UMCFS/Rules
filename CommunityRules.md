@@ -14,7 +14,7 @@
 - RULES
 ```
 1. **NO SCALPING OR TAKING ADVANTAGE OF EXTREME MARKET DEMAND.** 
-Scalping has many similiar definitions, but we define scalping in two ways:
+Scalping has many similar definitions, but we define scalping in two ways:
  * Taking advantage of market shortages by selling in-demand far above cost
  * Deliberate purchasing of in-demand items with the express intent to resell for profit
 These behaviors encourages toxic conversation and behavior, add no economic value, causing hardship and frustration for users who want to buy hardware at a reasonable price. **Users will be banned if found scalping.**

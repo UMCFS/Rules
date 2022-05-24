@@ -44,7 +44,7 @@ For more information on this rule, including how scalping is defined, please see
 ```
 10. **Ban evasion is forbidden.** Creating a new account to get around a ban will result in your new account being banned, along with report to Discord Trust and Safety, who will likely terminate all of your accounts permanently.
 
-11. **Discussion of non-official retailers of keys and licensure for games, operating systems, etc. forbidden.** Secondhand marketplaces such as G2A and Kinguin contain keys of unknown origin - this means your purchase may of been legal, but the origin of the purchase may have not. 
+11. **Discussion of non-official retailers of keys and licensure for games, operating systems, etc. is forbidden.** Secondhand marketplaces such as G2A and Kinguin contain keys of unknown origin - this means your purchase may have been legal, but the origin of the purchase may have not. 
 
 12. **Posting NSFW content is forbidden.** Gore (and sadistic content), sexual content, nudity, glorification of suicide, murder, violence, extremism are not allowed. This includes in meme format.
 

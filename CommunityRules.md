@@ -1,4 +1,4 @@
-`Updated 4/29/2022`
+`Updated 8/11/2022`
  
 **We follow ALL Discord Community Guidelines and abide by ALL clauses in Discord's Terms of Service. The staff team has FULL discretion regarding CG and ToS violations:**
 
@@ -14,14 +14,15 @@
 - RULES
 ```
 1. **NO SCALPING OR TAKING ADVANTAGE OF EXTREME MARKET DEMAND.** 
-Scalping has many similar definitions, but we define scalping in two ways:
- * Taking advantage of market shortages by selling in-demand far above cost
+Scalping has many similar definitions, but we define scalping in two ways, which applies to ALL items:
+ * Taking advantage of market shortages by selling items far above cost
  * Deliberate purchasing of in-demand items with the express intent to resell for profit
+ 
 These behaviors encourages toxic conversation and behavior, add no economic value, causing hardship and frustration for users who want to buy hardware at a reasonable price. **Users will be banned if found scalping.**
 
 **Note:** By being a member of this server, you agree not to scalp on this Discord nor in any other Discords or external marketplaces; i.e. no scalping on eBay, Reddit /r/hardwareswap, Facebook Marketplace, etc. We have this strict rule for a reason - what point is there to allow users access to our anti-scalper community and resources if they're used to scalp in other marketplaces?
 
-For more information on this rule, including how scalping is defined, please see <#892606881581899826>. 
+For more information on this rule, including how scalping is defined in detail, please see <#892606881581899826>. 
  
 2. **Violating, or encouraging the violation of Micro Center policies, or committing return fraud, is strictly prohibited.**
 
@@ -33,7 +34,7 @@ For more information on this rule, including how scalping is defined, please see
 
 6. **Spreading false information __maliciously__ is prohibited.** We will not accept users trying to misguide others. Staff will determine collaboratively if malicious intention is present.
 
-7. **Links to fundraisers, or products with embedded referral codes are not allowed.** This includes GoFundMe links, or links such as EVGA product links with associatecode=xxx in the URL. For EVGA associates referral codes and the like, please keep them in your bio or status, not your nickname or display name; a reference in your nickname may be added to refer to your bio or status, e.g. "Nickname (EVGA code in bio)".
+7. **Links to fundraisers, or products with embedded referral codes are not allowed.** This includes GoFundMe links, or links to retailers with your referral code embedded in the URL.
 
 8. **Advertising other Discords, whether in the server or in DMs, without the permission of an admin is forbidden.** Please DM <@575252669443211264> if you would like to request permission to share a particular server.
 

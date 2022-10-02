@@ -1,7 +1,7 @@
 ```ini
 [Marketplace Rules]
 ```
-`Updated 3/11/2022`
+`Updated 10/02/2022`
 
 *First, some things to define:*
 
@@ -20,7 +20,7 @@ __Purchased from a private party or non-authorized retailer:__ the lowest value 
     * Ohio - Sharonville, Columbus, and Mayfield Heights, OH
     * Texas - Houston and Dallas
     * Georgia - Duluth and Marietta
-    * DMV - Fairfax, VA; Rockville and Parkville, MD;  St. Davids, PA
+    * Mid-Atlantic - Fairfax, VA; Rockville and Parkville, MD;  St. Davids, PA
     * Northeast - North Jersey, NJ; Westbury, Yonkers, Flushing, and Brooklyn, NY; Cambridge, MA
 
 Post your listing in the region that contains the Micro Center store closest to you. If you're willing to sell and ship domestically to a buyer using PayPal G&S, then you may cross-post to National.

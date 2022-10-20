@@ -1,4 +1,4 @@
-`Updated 8/11/2022`
+`Updated 10/20/2022`
  
 **We follow ALL Discord Community Guidelines and abide by ALL clauses in Discord's Terms of Service. The staff team has FULL discretion regarding CG and ToS violations:**
 
@@ -20,7 +20,7 @@ Scalping has many similar definitions, but we define scalping in two ways, which
  
 These behaviors encourages toxic conversation and behavior, add no economic value, causing hardship and frustration for users who want to buy hardware at a reasonable price. **Users will be banned if found scalping.**
 
-**Note:** By being a member of this server, you agree not to scalp on this Discord nor in any other Discords or external marketplaces; i.e. no scalping on eBay, Reddit /r/hardwareswap, Facebook Marketplace, etc. We have this strict rule for a reason - what point is there to allow users access to our anti-scalper community and resources if they're used to scalp in other marketplaces?
+**Note:** By being a member of this server, you agree not to scalp on this Discord or anywhere else; i.e. no scalping on eBay, Reddit /r/hardwareswap, Facebook Marketplace, in line at MC, etc. We have this strict rule for a reason - what point is there to allow users access to our anti-scalper community and resources if they're used to scalp in other marketplaces?
 
 For more information on this rule, including how scalping is defined in detail, please see <#892606881581899826>. 
  

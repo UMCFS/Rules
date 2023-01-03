@@ -1,4 +1,4 @@
-`Updated 10/20/2022`
+`Updated 1/3/2023`
  
 **We follow ALL Discord Community Guidelines and abide by ALL clauses in Discord's Terms of Service. The staff team has FULL discretion regarding CG and ToS violations:**
 
@@ -55,7 +55,7 @@ For more information on this rule, including how scalping is defined in detail, 
  
 15. **We oppose the discussion of bots in the server.** This is case-by-case, but in many instances bots are used with the intention to purchase multiple and resell. This goes against the mission of the server, and in many cases the terms of service for respective companies. 
 
-16. **Doxxing is forbidden.** Doxxing is the revealing of *private* identifying information about someone, in an online setting.
+16. **Doxxing is forbidden.** Doxxing is the revealing of *private*, identifying information about someone in an online setting. This includes threats towards or revealing information to someone's IRL friends, family, or employer without their consent.
 ```ini
 [SAFETY/SECURITY NOTES]
 ```

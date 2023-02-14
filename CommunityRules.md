@@ -1,4 +1,4 @@
-`Updated 1/3/2023`
+`Updated 2/14/2023`
  
 **We follow ALL Discord Community Guidelines and abide by ALL clauses in Discord's Terms of Service. The staff team has FULL discretion regarding CG and ToS violations:**
 
@@ -7,6 +7,7 @@
 
 **You must read and agree to the rules to gain access to the server.**
 
+** Staff may moderate at their discretion** While we've tried our best to write a comprehensive set of rules, nothing is perfect and not all situations may be considered. Any atempts to circumvent rules will not be tolerated, and staff has discretion to moderate anything beyond what's listed that we deem inappropriate.
 ```diff
 - Note - Our moderation bots (Warship and Dyno) use DMs to let users know when they've committed infractions. Failure to enable DMs on this server may result in eventual warn, mute, kick, or ban without notification.
 ```
@@ -18,27 +19,25 @@ Scalping has many similar definitions, but we define scalping in two ways, which
  * Taking advantage of market shortages by selling items far above cost
  * Deliberate purchasing of in-demand items with the express intent to resell for profit
  
-These behaviors encourages toxic conversation and behavior, add no economic value, causing hardship and frustration for users who want to buy hardware at a reasonable price. **Users will be banned if found scalping.**
+These behaviors encourages toxic conversation and behavior, add no economic value, causing hardship and frustration for users who want to buy hardware at a reasonable price. **Users will be banned if found scalping.** For more information on this rule, including how scalping is defined in detail, please see <#892606881581899826>.
 
-**Note:** By being a member of this server, you agree not to scalp on this Discord or anywhere else; i.e. no scalping on eBay, Reddit /r/hardwareswap, Facebook Marketplace, in line at MC, etc. We have this strict rule for a reason - what point is there to allow users access to our anti-scalper community and resources if they're used to scalp in other marketplaces?
-
-For more information on this rule, including how scalping is defined in detail, please see <#892606881581899826>. 
+**Note:** By being a member of this server, **you agree not to scalp on this Discord or anywhere else**; i.e. no scalping on eBay, Reddit /r/hardwareswap, Facebook Marketplace, in line at MC, etc. What point is there to allow users access to our anti-scalper community and resources if they're used to scalp in other marketplaces?
  
 2. **Violating, or encouraging the violation of Micro Center policies, or committing return fraud, is strictly prohibited.**
 
-3. **Be kind and respectful.**
+3. **Be kind and respectful.** This rule is broadly written for a reason, so please apply common sense here. This includes attempts to circumvent the censored word list.
 
 4. **No political discussion.**
 
-5. **No spam. Violations will result in warnings and/or mutes.** Bots will be removed.
+5. **No spam. Violations will result in warnings and/or mutes.**
 
-6. **Spreading false information __maliciously__ is prohibited.** We will not accept users trying to misguide others. Staff will determine collaboratively if malicious intention is present.
+6. **Spreading false information __maliciously__ is prohibited.** We will not accept users trying to misguide others. Staff will determine if malicious intention is present.
 
-7. **Links to fundraisers, or products with embedded referral codes are not allowed.** This includes GoFundMe links, or links to retailers with your referral code embedded in the URL.
+7. **Links with embedded referral codes, QR codes, or links to crowdfunding (GoFundMe, etc.) are not allowed.**
 
 8. **Advertising other Discords, whether in the server or in DMs, without the permission of an admin is forbidden.** Please DM <@575252669443211264> if you would like to request permission to share a particular server.
 
-9. **Don't ask questions about stock in stock-alerts channels.** Messages in stock-alerts channels should be limited to *providing* information about what's in stock at the store. Questions about stock can be directed to specific store-chat channels.
+9. **Don't ask questions about stock in stock-alerts channels.** Messages in stock-alerts channels are intended to *provide* information about what's in stock at the store. Questions about stock can be directed to specific store-chat channels.
 <--- POST BREAK HERE --->
 ```ini
 [TOS INTERPRETATIONS FOR OUR SERVER]

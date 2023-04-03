@@ -46,7 +46,7 @@ These behaviors encourages toxic conversation and behavior, add no economic valu
 
 11. **Discussion of non-official retailers of keys and licensure for games, operating systems, etc. is forbidden.** Secondhand marketplaces such as G2A and Kinguin contain keys of unknown origin - this means your purchase may have been legal, but the origin of the purchase may not have been.
 
-12. **Posting NSFW content is forbidden.** Gore (and sadistic content), sexual content, nudity, glorification of suicide, murder, violence, extremism are not allowed. This includes in meme format.
+12. **Posting NSFW content in non-age restricted channels is forbidden.** Gore (and sadistic content), sexual content, nudity, glorification of suicide, murder, violence, extremism are not allowed. This includes in meme format.
 
 13. **Hate speech is forbidden.** We do not condone hate speech of any race, ethnicity, sexual orientation, gender, socio-economic status, religious affiliation or disability. This includes meme content. Users violating this rule will be banned.
 

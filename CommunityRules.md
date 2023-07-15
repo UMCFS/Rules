@@ -1,4 +1,4 @@
-`Updated 2/15/2023`
+`Updated 7/15/2023`
  
 **We follow ALL Discord Community Guidelines and abide by ALL clauses in Discord's Terms of Service. The staff team has FULL discretion regarding CG and ToS violations:**
 
@@ -72,6 +72,3 @@ These behaviors encourages toxic conversation and behavior, add no economic valu
  
 **Slowmode has been enabled on certain channels.** For example, our server has stock-alert channels intended specifically to notify people of stock at a particular store. As stated above, asking questions in stock-alerts channels is considered spam and will be removed.
 ```ini
-[ACKNOWLEDGEMENT AND ACCEPTANCE]
-```
-**By reacting to this message (by clicking or tapping :white_check_mark:), you accept the rules stated above, and policies enforced by the server, Discord, Micro Center, and relevant parties.**

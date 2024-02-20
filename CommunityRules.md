@@ -17,10 +17,11 @@ Scalping has many similar definitions, but we define scalping in two ways:
 * Taking advantage of market shortages by selling items far above cost
 * Deliberate purchasing of in-demand items with the express intent to resell for profit
 
-This includes but is not limited to all tech-related items (e.g. those sold at Micro Center) and applies to any/all marketplaces: eBay, Reddit /r/hardwareswap, Facebook Marketplace, in line at MC, etc. - **you agree not to scalp on this Discord or anywhere else**. These behaviors encourages toxic conversation and behavior, add no economic value, and cause hardship and frustration for users who want to buy hardware at a reasonable price.
-**Users will be banned if found scalping.** 
+This includes but is not limited to all tech-related items, e.g. those sold at Micro Center, and applies to any/all marketplaces: eBay, Reddit /r/hardwareswap, Facebook Marketplace, in line at MC, etc. This does not apply to custom keyboards.
 
-We do not care about resell of items like shoes and keyboards, but we do reserve the right to exercise discretion as warranted, e.g. those who were caught scalping baby formula during the COVID-19 pandemic.
+**You agree not to scalp on this Discord or anywhere else**. These behaviors encourages toxic conversation and behavior, add no economic value, and cause hardship and frustration for users who want to buy hardware at a reasonable price. **Users will be banned if found scalping.** 
+
+We do not care about resell of items like shoes and concert tickets, but we do reserve the right to exercise discretion as warranted, e.g. those who were caught scalping baby formula during the COVID-19 pandemic.
 
 For more information on this rule, including how scalping is defined in detail for purposes of resell here in our marketplace, please see <#892606881581899826>.
 

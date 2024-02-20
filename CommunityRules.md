@@ -1,28 +1,29 @@
-`Updated 7/15/2023`
- 
+`Updated 2/20/2024`
+**You must read and agree to the rules to gain access to the server.**
 **We follow ALL Discord Community Guidelines and abide by ALL clauses in Discord's Terms of Service. The staff team has FULL discretion regarding CG and ToS violations:**
 
    `Discord Community Guidelines:` https://discord.com/guidelines
    `Discord Terms of Service:` https://discord.com/terms
 
-**You must read and agree to the rules to gain access to the server.**
-
-** Staff may moderate at their discretion.** While we've tried our best to write a comprehensive set of rules, nothing is perfect and not all situations may be considered. Any attempts to circumvent rules will not be tolerated, and staff has discretion to moderate anything beyond what's listed that we deem inappropriate.
+** Staff may moderate at their discretion.** While we've tried our best to write a comprehensive set of rules, nothing is perfect and not all situations may be considered. Any attempts to circumvent rules will not be tolerated, and staff has discretion to moderate anything beyond what's listed if we deem inappropriate.
 ```diff
-- Note - Our moderation bots (Warship and Dyno) use DMs to let users know when they've committed infractions. Failure to enable DMs on this server may result in eventual warn, mute, kick, or ban without notification.
+- Note - Our moderation bots (Warship and Dyno) use DMs to let users know when they've committed infractions. Blocking the bots or failure to enable DMs on this server may result in eventual warn, mute, kick, or ban without notification.
 ```
-```diff
-- RULES
+```ini
+[Rules]
 ```
 1. **NO SCALPING OR TAKING ADVANTAGE OF EXTREME MARKET DEMAND.** 
-Scalping has many similar definitions, but we define scalping in two ways, which applies to ALL items:
- * Taking advantage of market shortages by selling items far above cost
- * Deliberate purchasing of in-demand items with the express intent to resell for profit
- 
-These behaviors encourages toxic conversation and behavior, add no economic value, causing hardship and frustration for users who want to buy hardware at a reasonable price. **Users will be banned if found scalping.** For more information on this rule, including how scalping is defined in detail, please see <#892606881581899826>.
+Scalping has many similar definitions, but we define scalping in two ways:
+* Taking advantage of market shortages by selling items far above cost
+* Deliberate purchasing of in-demand items with the express intent to resell for profit
 
-**Note:** By being a member of this server, **you agree not to scalp on this Discord or anywhere else**; i.e. no scalping on eBay, Reddit /r/hardwareswap, Facebook Marketplace, in line at MC, etc. What point is there to allow users access to our anti-scalper community and resources if they're used to scalp in other marketplaces?
- 
+This includes but is not limited to all tech-related items (e.g. those sold at Micro Center) and applies to any/all marketplaces: eBay, Reddit /r/hardwareswap, Facebook Marketplace, in line at MC, etc. - **you agree not to scalp on this Discord or anywhere else**. These behaviors encourages toxic conversation and behavior, add no economic value, and cause hardship and frustration for users who want to buy hardware at a reasonable price.
+**Users will be banned if found scalping.** 
+
+We do not care about resell of items like shoes and keyboards, but we do reserve the right to exercise discretion as warranted, e.g. those who were caught scalping baby formula during the COVID-19 pandemic.
+
+For more information on this rule, including how scalping is defined in detail for purposes of resell here in our marketplace, please see <#892606881581899826>.
+
 2. **Violating, or encouraging the violation of Micro Center policies, or committing return fraud, is strictly prohibited.**
 
 3. **Be kind and respectful.** This rule is broadly written for a reason, so please apply common sense here. This includes attempts to circumvent the censored word list.

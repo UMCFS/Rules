@@ -29,7 +29,7 @@ For more information on this rule, including how scalping is defined in detail f
 
 3. **Be kind and respectful.** This rule is broadly written for a reason, so please apply common sense here. This includes attempts to circumvent the censored word list.
 
-4. **No political discussion.**
+4. **No political discussion.** Except in <#1092483332169793638>.
 
 5. **No spam. Violations will result in warnings and/or mutes.**
 

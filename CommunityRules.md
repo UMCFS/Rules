@@ -1,4 +1,4 @@
-`Updated 2/20/2024`
+`Updated 11/04/2024`
 **You must read and agree to the rules to gain access to the server.**
 **We follow ALL Discord Community Guidelines and abide by ALL clauses in Discord's Terms of Service. The staff team has FULL discretion regarding CG and ToS violations:**
 
@@ -29,7 +29,7 @@ For more information on this rule, including how scalping is defined in detail f
 
 3. **Be kind and respectful.** This rule is broadly written for a reason, so please apply common sense here. This includes attempts to circumvent the censored word list.
 
-4. **No political discussion.** Except in <#1092483332169793638>.
+4. **No political discussion.** Except in <#1092483332169793638> (18+ Adult Swim). If you're Active Member status ("Green" / Level 10), please see <#1092490901357600820> for more information on how to enroll in this channel.
 
 5. **No spam. Violations will result in warnings and/or mutes.**
 

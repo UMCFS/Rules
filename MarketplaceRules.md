@@ -1,7 +1,7 @@
 ```ini
 [Marketplace Rules]
 ```
-`Updated 10/02/2022`
+`Updated 01/21/2025`
 
 *First, some things to define:*
 
@@ -11,19 +11,19 @@ __Purchased from a private party or non-authorized retailer:__ the lowest value 
 
 **(At) Cost** - Cost is the **Base Value**, plus applicable real, direct costs, such as tax paid, shipping charges paid, and the cost of a Micro Center transferrable warranty, if applicable.
 
-**Full system build** - A functioning PC, minus peripherals and OS. A full build shall be assembled with a case, PSU, motherboard, CPU, RAM, disk, and modern GPU. **To qualify as a full system build, the PC must contain a discrete GPU currently being manufactured and sold** such as Nvidia RTX 3000, 2060 series, or 1600 series, or AMD RX 6000 series. This discourages those shucking GPUs out of pre-builts and reselling here.
+**Full system build** - A functioning PC, minus peripherals and OS. A full build shall be assembled with a case, PSU, motherboard, CPU, RAM, disk, and modern GPU. **To qualify as a full system build, the PC must contain a discrete GPU currently being manufactured and sold** such as Nvidia RTX 4000/3000 series, or AMD RX 7000/6000 series. This discourages those shucking GPUs out of pre-builts and reselling here.
 
-**Marketplace regions** - Regions are based on Micro Center store location clusters, plus a National channel for shipped items. Below is how the stores have been grouped:
-    * West - Tustin, CA
-    * Mountain - Denver, CO
-    * Midwest - St. Louis Park, MN; Overland Park, KS; Brentwood, MO; Westmont and Chicago, IL; Madison Heights, MI
-    * Ohio - Sharonville, Columbus, and Mayfield Heights, OH
-    * Texas - Houston and Dallas
-    * Georgia - Duluth and Marietta
-    * Mid-Atlantic - Fairfax, VA; Rockville and Parkville, MD;  St. Davids, PA
-    * Northeast - North Jersey, NJ; Westbury, Yonkers, Flushing, and Brooklyn, NY; Cambridge, MA
+**Marketplace regions** - Regions are based on Micro Center store location clusters, plus a National channel for shipped items. Below is how the stores have been grouped, post to your closest region:
+* West - Tustin and Santa Clara, CA
+* Mountain - Denver, CO
+* Midwest - St.Louis Pk, MN; Overlnd Pk, KS; Brentwood, MO; Chicago and Westmont, IL; Madison Hgts, MI; Indy, IN
+* Ohio - Sharonville, Columbus, and Mayfield Heights, OH
+* Texas - Houston and Dallas
+* Southeast - Duluth and Marietta, GA; Miami, FL
+* Mid-Atlantic - Fairfax, VA; Rockville and Parkville, MD;  St. Davids, PA
+* Northeast - North Jersey, NJ; Westbury, Yonkers, Flushing, and Brooklyn, NY; Cambridge, MA
 
-Post your listing in the region that contains the Micro Center store closest to you. If you're willing to sell and ship domestically to a buyer using PayPal G&S, then you may cross-post to National.
+If you're willing to sell and ship domestically to a buyer using PayPal G&S, then you may cross-post to National.
 
 *Now onto the rules:*
 

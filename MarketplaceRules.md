@@ -1,7 +1,7 @@
 ```ini
 [Marketplace Rules]
 ```
-`Updated 01/21/2025`
+`Updated 02/11/2025`
 
 *First, some things to define:*
 
@@ -11,19 +11,19 @@ __Purchased from a private party or non-authorized retailer:__ the lowest value 
 
 **(At) Cost** - Cost is the **Base Value**, plus applicable real, direct costs, such as tax paid, shipping charges paid, and the cost of a Micro Center transferrable warranty, if applicable.
 
-**Full system build** - A functioning PC, minus peripherals and OS. A full build shall be assembled with a case, PSU, motherboard, CPU, RAM, disk, and modern GPU. **To qualify as a full system build, the PC must contain a discrete GPU currently being manufactured and sold** such as Nvidia RTX 4000/3000 series, or AMD RX 7000/6000 series. This discourages those shucking GPUs out of pre-builts and reselling here.
+**Full system build** - A functioning PC, minus peripherals and OS. A full build shall be assembled with a case, PSU, motherboard, CPU, RAM, disk, and modern GPU. **To qualify as a full system build, the PC must contain a discrete GPU currently being manufactured and sold** such as Nvidia RTX 5000/4000/3000 series, or AMD RX 7000/6000 series. This discourages those shucking GPUs out of pre-builts and reselling here.
 
-**Marketplace regions** - Regions are based on Micro Center store location clusters, plus a National channel for shipped items. Below is how the stores have been grouped, post to your closest region:
+**Marketplace regions** - Regions are based on store location clusters, plus a National channel for shipped items. Below are the regions:
 * West - Tustin and Santa Clara, CA
 * Mountain - Denver, CO
-* Midwest - St.Louis Pk, MN; Overlnd Pk, KS; Brentwood, MO; Chicago and Westmont, IL; Madison Hgts, MI; Indy, IN
+* Midwest - St.Louis Park, MN; Overland Park, KS; Brentwood, MO; Chicago and Westmont, IL; Madison Heights, MI; Indianapolis, IN
 * Ohio - Sharonville, Columbus, and Mayfield Heights, OH
-* Texas - Houston and Dallas
-* Southeast - Duluth and Marietta, GA; Miami, FL
+* Texas - Dallas and Houston, TX
+* Southeast - Duluth and Marietta, GA; Charlotte, NC; Miami, FL
 * Mid-Atlantic - Fairfax, VA; Rockville and Parkville, MD;  St. Davids, PA
 * Northeast - North Jersey, NJ; Westbury, Yonkers, Flushing, and Brooklyn, NY; Cambridge, MA
 
-If you're willing to sell and ship domestically to a buyer using PayPal G&S, then you may cross-post to National.
+If you're willing to sell and ship to a buyer using PayPal G&S, then you may cross-post to National.
 
 *Now onto the rules:*
 
@@ -32,15 +32,15 @@ If you're willing to sell and ship domestically to a buyer using PayPal G&S, the
 -You may list your item for no more than its **cost** +$50 of profit.
 ```
 ```diff
--If your build qualifies as a full build, as defined above, you may list it for no more than its **cost** +$200 of profit/build fees. Exception - if you are a legitimate business entity registered in your state, you may continue pricing your full build fees for your business channels as you do today, but any full builds listed here are capped at +$200.
+-If your build qualifies as a full build as defined above, you may list it for no more than its **cost** +$200 of profit/build fees. Exception - legitmate business entities may continue pricing via your regular business channels as you wish, but any listings here must conform to the cost +$200 cap.
 ```
-This profit can be used to recoup gas, fulfill a finders fee, cover your time and labor, etc., and included in your cost breakdown (see below).
+This profit can be used to recoup gas, fulfill a finders fee, cover your time and labor, etc., and shall be included in your cost breakdown (see below).
 
 **You must include a breakdown of actual costs paid; this shows buyers how you calculated your listing price.** All potential buyers should request receipts from sellers. See [Listing Rules] for information on how to show these in your listing.
 
-**This rule applies to trade deals as well *on both ends*.** Where cash is supplied by whichever party has the lower overall cost.
+**Exception for alike model trades:** Trades for alike models (e.g. a 5090 for a 5090) can be traded freely and not subject to the cost +$50 cap. This does not apply for trades for unalike models (e.g. a 4090 for a 5090) - those need to be equalized within $50 of cost.
 
-And while we vehemently discourage buying from scalpers or encouraging others to do so, we don't intend to ban buyers who have purchased from scalpers.
+While we vehemently discourage buying from scalpers, we don't intend to ban buyers who have purchased from scalpers.
 ```diff
 - As a reminder, application of this rule extends beyond this marketplace; it includes your selling and trading activity outside of this server, such as on Reddit HWS and FB Marketplace. Scalping off server will result in a ban.
 ```

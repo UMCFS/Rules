@@ -2,8 +2,8 @@
 **You must read and agree to the rules to gain access to the server.**
 **We follow ALL Discord Community Guidelines and abide by ALL clauses in Discord's Terms of Service. The staff team has FULL discretion regarding CG and ToS violations:**
 
-   `Discord Community Guidelines:` https://discord.com/guidelines
-   `Discord Terms of Service:` https://discord.com/terms
+   `Discord Community Guidelines:` <https://discord.com/guidelines>
+   `Discord Terms of Service:` <https://discord.com/terms>
 
 ** Staff may moderate at their discretion.** While we've tried our best to write a comprehensive set of rules, nothing is perfect and not all situations may be considered. Any attempts to circumvent rules will not be tolerated, and staff has discretion to moderate anything beyond what's listed if we deem inappropriate.
 ```diff
@@ -68,6 +68,8 @@ For more information on this rule, including how scalping is defined in detail f
 
 **We are not responsible for information shared in DMs.** There can be times when people DM you regarding information in stores, or regarding marketplace interactions or other content. Use your best judgement when clicking on links or negotiating deals. This does not mean that our rules about hate speech and kindness and threats do not apply in DMs - they most certainly do.
 ```ini
+Changelog: https://github.com/UMCFS/Rules/commits/main/CommunityRules.md
+```
 [OTHER NOTES]
 ```
 **All buying and selling activity must be conducted through the Marketplace.** The marketplace is a feature designed to accommodate the community, but isn't the main feature of this server. It has its own set of additional rules, detailed in <#892606881581899826>. If you intend to buy or sell hardware here, you must read and accept them.

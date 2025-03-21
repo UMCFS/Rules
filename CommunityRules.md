@@ -1,11 +1,13 @@
-`Updated 03/07/2025`
+`Updated 03/21/2025`
 **You must read and agree to the rules to gain access to the server.**
-**We follow ALL Discord Community Guidelines and abide by ALL clauses in Discord's Terms of Service. The staff team has FULL discretion regarding CG and ToS violations:**
+**We follow ALL Discord Community Guidelines and abide by ALL clauses in Discord's Terms of Service:**
 
    `Discord Community Guidelines:` https://discord.com/guidelines
    `Discord Terms of Service:` https://discord.com/terms
 
-** Staff may moderate at their discretion.** While we've tried our best to write a comprehensive set of rules, nothing is perfect and not all situations may be considered. Any attempts to circumvent rules will not be tolerated, and staff has discretion to moderate anything beyond what's listed if we deem inappropriate.
+**Report any suspicious or concerning activity to <@575252669443211264>.** This allows all of staff to assist you with your concern.
+
+** Staff may moderate at their discretion.** While we've tried our best to write a comprehensive set of rules, nothing is perfect and not all situations may be considered. Any attempts to circumvent rules will not be tolerated, and staff has discretion to moderate anything beyond what's listed.
 
 ```ini
 [Rules]
@@ -16,7 +18,7 @@ Scalping has many similar definitions, but we define scalping in two ways:
 * Deliberate purchasing of in-demand items with the express intent to resell for profit
 
 **Users will be banned from here if found scalping anywhere.**  
-The scope of this rule applies to all marketplaces, including ours here (which is governed by <#892606881581899826>), and applies all tech-related items. We do not care about resell of non-tech items like shoes and concert tickets, but we do reserve the right to exercise discretion as warranted, e.g. those who were caught scalping baby formula and toilet paper during the COVID-19 pandemic.
+The scope of this rule applies to all marketplaces, including ours here (which is governed by <#892606881581899826>), and applies to all tech-related items. We do not care about resell of non-tech items like shoes and concert tickets, but we do reserve the right to exercise discretion as warranted, e.g. those who were caught scalping baby formula and toilet paper during the COVID-19 pandemic.
 
 These behaviors are toxic, add no economic value, and cause frustration for users who want to buy hardware at a reasonable price. And while we vehemently discourage buying from scalpers, we don't intend to ban buyers who have purchased from scalpers, but we will ban if you resell a scalped item at a scalped price.
 
@@ -53,7 +55,7 @@ This profit can be used to recoup gas, fulfill a finders fee, cover your time an
 
 8. **Advertising other Discords, whether in the server or in DMs, without the permission of an admin is forbidden.** We censor Discord invites. Please DM <@575252669443211264> if you would like to request permission to share a particular server.
 
-9. **Don't ask questions about stock in stock-alerts channels.** Messages in stock-alerts channels are intended to *provide* information about what's in stock at the store. Questions about stock can be directed to specific store-chat channels.
+9. **Don't ask questions about stock in stock announcements channels.** Messages in stock announcement channels are intended to *provide* information about what's in stock at the store. Questions about stock can be directed to specific store general-chat channels.
 
 10. **Ban evasion is forbidden.** Creating a new account to get around a ban will result in your new account being banned, along with a report to Discord Trust and Safety, who will likely terminate all of your accounts permanently.
 
@@ -66,7 +68,5 @@ This profit can be used to recoup gas, fulfill a finders fee, cover your time an
 **Our moderation bots (Warship and Dyno) use DMs to let users know when they've committed infractions.** Blocking the bots or failure to enable DMs on this server may result in eventual warn, mute, kick, or ban without notification.
 
 **Strongly consider enabling 2FA on your Discord account, if you haven't already.** Phishing attacks unfortunately do happen, and should you accidentally click on a malicious link, 2FA will save you and your account from compromise.
-
-**Report any suspicious or concerning activity to <@575252669443211264>.** This allows all of staff to assist you with your concern.
 
 **We are not responsible for information shared in DMs.** There can be times when people DM you regarding information in stores, or regarding marketplace interactions or other content. Use your best judgement when clicking on links or negotiating deals. This does not mean that our rules about hate speech and kindness and threats do not apply in DMs - they most certainly do.

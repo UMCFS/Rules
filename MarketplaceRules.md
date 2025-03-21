@@ -1,7 +1,7 @@
 ```ini
 [Marketplace Rules]
 ```
-`Updated 03/07/2025`
+`Updated 03/20/2025`
 
 Welcome to our marketplace!
 

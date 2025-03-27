@@ -48,11 +48,11 @@ Notes may be used to indicate any additional information about your listing.
 
 7. **All selling listings require an asking price.**
 
-8. **Want-to-buy requests are now allowed in the proper marketplace channel** WTB listings follow the same H-W-L-N format as sales listings, where [H] is a dollar amount the prospective buyer is willing to pay (simply writing "cash/paypal" or the like not acceptable) for what you want in [W]. These listings belong in <#966469449676914719> only.
+8. **Want-to-buy (WTB) requests are allow and require an offer price.** WTB listings follow the same H-W-L-N format as sales listings, where [H] is a dollar amount the prospective buyer is willing to pay (simply writing "cash/paypal" or the like not acceptable) for what you want in [W]. These listings belong in <#966469449676914719> only.
 
 9. **You cannot ask a buyer to explicitly pay for transaction fees.** Such as with PayPal G&S. For sake of our marketplace, you may include those fees in your "Shipping & Handling" costs. 
 
-10.  **Do not delete completed listings** If you have sold or traded your item, please edit the listing with ~~strikeout~~, and add **SOLD** or **TRADED**, but please do not delete. If you wish to withdraw your unfulfilled listing entirely, then it is OK to delete.
+10. **Do not delete completed listings.** If you have sold or traded your item, please edit the listing with ~~strikeout~~, and add **SOLD** or **TRADED**, but please do not delete. If you wish to withdraw your unfulfilled listing entirely, then it is OK to delete.
 ```ini
 [Notes]
 ```

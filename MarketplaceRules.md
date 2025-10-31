@@ -1,14 +1,14 @@
 ```ini
 [Marketplace Rules]
 ```
-`Updated 03/20/2025`
+`Updated 10/31/2025`
 
 Welcome to our marketplace!
 
 **Users must be Active Member status ("Green" / Level 10) or above to LIST or SELL in the marketplace.** This is to protect buyers from scammers. You can check your level by typing \rank in <#954038539400650782>. Anyone who agrees to marketplace rules may transact.
 
 **Marketplace regions** - Regions are based on store location clusters, plus a National channel for shipped items. Below are the regions:
-* West - Tustin and Santa Clara, CA
+* West - Tustin and Santa Clara, CA; Phoenix, AZ
 * Mountain - Denver, CO
 * Midwest - St.Louis Park, MN; Overland Park, KS; Brentwood, MO; Chicago and Westmont, IL; Madison Heights, MI; Indianapolis, IN
 * Ohio - Sharonville, Columbus, and Mayfield Heights, OH

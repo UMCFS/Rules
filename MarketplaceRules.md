@@ -46,9 +46,9 @@ Notes may be used to indicate any additional information about your listing.
 
 6. **All items in listings must be physically in hand.** No posting pictures of a Newegg win prior to buying or receiving it. Have the item in hand, then post.
 
-7. **All selling listings require an asking price.**
+7. **All selling listings require either an asking price or the item you want to receive as a trade.** Both are acceptable as well.
 
-8. **Want-to-buy (WTB) requests are allow and require an offer price.** WTB listings follow the same H-W-L-N format as sales listings, where [H] is a dollar amount the prospective buyer is willing to pay (simply writing "cash/paypal" or the like not acceptable) for what you want in [W]. These listings belong in <#966469449676914719> only.
+8. **Want-to-buy (WTB) requests are allowed and require an offer price in dollars.** WTB listings follow the same H-W-L-N format as sales listings, where [H] is a dollar amount the prospective buyer is willing to pay (simply writing "cash/paypal" or the like is not acceptable) for what you want in [W]; these listings belong in <#966469449676914719> only. If you're looking to *trade* something, then this is *not *a WTB post and must be listed in your respective marketplace channel with appropriate timestamp photos and so forth as detailed here.
 
 9. **You cannot ask a buyer to explicitly pay for transaction fees.** Such as with PayPal G&S. For sake of our marketplace, you may include those fees in your "Shipping & Handling" costs. 
 

@@ -1,4 +1,4 @@
-`Updated 03/05/2026`
+`Updated 03/06/2026`
 **You must read and agree to the rules to gain access to the server.**
 **We follow ALL Discord Community Guidelines and abide by ALL clauses in Discord's Terms of Service:**
 
@@ -14,29 +14,34 @@
 ```
 1. **NO SCALPING OR TAKING ADVANTAGE OF EXTREME MARKET DEMAND.** 
 Scalping has many similar definitions, but we define scalping as:
-* Purchasing in-demand hardware for the primary purpose near-term resale at prices far above cost, where "near-term resale" is any sale within the first six (6) months of ownership.
+* Purchasing in-demand hardware for the primary purpose of near-term resale at prices far above cost, where "near-term resale" is any sale within the first six (6) months of ownership.
 
 **Users may be banned from here if found scalping anywhere.**  
 The scope of this rule applies to all marketplaces, including ours here (which is governed by <#892606881581899826>), and applies to all tech-related items. We do not care about resell of non-tech items like shoes and concert tickets, but we do reserve the right to exercise discretion as warranted, e.g. those who were caught scalping baby formula and toilet paper during the COVID-19 pandemic.
 
 These behaviors are toxic, add no economic value, and cause frustration for users who want to buy hardware at a reasonable price. And while we vehemently discourage buying from scalpers, we don't intend to ban buyers who have purchased from scalpers, but we will ban if you resell a scalped item at a scalped price.
 
-We generally define "cost" as what you paid for the item. A more thorough definition is detailed below:
+We generally define "Cost" as what you paid for the item. A more thorough definition is detailed below:
 > **Base Value** -
 > __Purchased from an authorized retailer:__ the amount of money paid for your item on a receipt after any discounts, but before taxes and other costs.
 > __Purchased from a private party or non-authorized retailer:__ the lowest value between these sources shall be used: the actual item sale price (before tax etc.), MSRP, or the current item pricing from an authorized retailer.
 > 
 > **(At) Cost** - Cost is the **Base Value**, plus applicable real, direct costs paid, such as tax, shipping charges, and the cost of a Micro Center transferrable warranty, if applicable.
 > 
-> **Full system build** - A functioning PC, minus peripherals and OS. A full build shall be assembled with a case, PSU, motherboard, CPU, RAM, disk, and modern GPU. **To qualify as a full system build, the PC must contain a discrete GPU currently being manufactured and sold** such as Nvidia RTX 5000/4000/3000 series, or AMD RX 7000/6000 series. This discourages those shucking GPUs out of pre-builts and reselling here.
+> **Full system build** - A functioning PC, minus peripherals and OS. A full build shall be assembled with a case, PSU, motherboard, CPU, RAM, disk, and modern GPU. **To qualify as a full system build, the PC must contain a discrete GPU from a recent generation** This discourages those shucking GPUs out of pre-builts and reselling here.
 
 ```diff
--If you've owned your item for less than 6 months: You may list or sell your item for no more than its Cost +$50 of profit, no matter the marketplace.
--If you've owned your item for 6 months or longer: You may list or sell your item for whatever price you wish.
+-If you've owned your item for less than 6 months:
+-You may list or sell your item for no more than its Cost +$50 of profit, no matter the marketplace.
+
+-If you've owned your item for 6 months or longer:
+-You may list or sell your item for whatever price you wish.
 ```
 ```diff
--If your build qualifies as a full build, you may list or sell it for no more than its cost +$200 of profit/build fees. Exception - legitmate business entities may continue pricing via your regular business channels as you wish, but any listings here must conform to the cost +$200 cap.
+-If your build qualifies as a full build, you may list or sell it for no more than its Cost +$200 of profit/build fees.
 ```
+Listings made without a receipt or other proof of purchase date and price will be assumed to be within the 6-month "near-term resale" window and subject to the Cost +$50 of profit cap.
+
 When listing or selling, reasonable shipping costs as well as PayPal G&S or similar transaction fees (not platform/listing fees, i.e. eBay) can be added to your cost, as these are commonly incurred when listing in our National marketplace or on Reddit HWS. Pirateship is a great resource for discounted shipping.
 
 This profit can be used to recoup gas, fulfill a finders fee, cover your time and labor, etc., and must be included in your cost breakdown.

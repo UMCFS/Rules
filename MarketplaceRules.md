@@ -1,7 +1,7 @@
 ```ini
 [Marketplace Rules]
 ```
-`Updated 03/05/2026`
+`Updated 03/06/2026`
 
 Welcome to our marketplace!
 
@@ -20,7 +20,7 @@ Welcome to our marketplace!
 If you're willing to sell and ship to a buyer using PayPal G&S, then you may cross-post to National, otherwise please pick one region for your listing.
 
 1. **REMINDER: NO SCALPING OR TAKING ADVANTAGE OF EXTREME MARKET DEMAND.**
-This is fully defined in <#892488347036041267>. You **must** include a receipt in your listing, otherwise it will be removed.
+This is fully defined in <#892488347036041267>. You **must** include a receipt or other proof of purchase date and price in your listing, otherwise it will be removed.
 
 > **Exception for alike model trades:** Trades for alike models (e.g. a 5090 for a 5090) can be traded freely and not subject to the profit cap. This does not apply for trades for unalike models (e.g. a 5080 for a 5090) - those need to be equalized within the profit cap.
 

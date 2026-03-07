@@ -1,4 +1,4 @@
-`Updated 03/06/2026`
+`Updated 03/07/2026`
 **You must read and agree to the rules to gain access to the server.**
 **We follow ALL Discord Community Guidelines and abide by ALL clauses in Discord's Terms of Service:**
 
@@ -35,7 +35,7 @@ We generally define "Cost" as what you paid for the item. A more thorough defini
 -You may list or sell your item for no more than its Cost +$50 of profit, no matter the marketplace.
 
 -If you've owned your item for 6 months or longer:
--You may list or sell your item for whatever price you wish.
+-You may list or sell your item for any price, but egregious listings are subject to moderator discretion.
 ```
 ```diff
 -If your build qualifies as a full build, you may list or sell it for no more than its Cost +$200 of profit/build fees.

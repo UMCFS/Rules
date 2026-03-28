@@ -1,8 +1,7 @@
 ```ini
 [Marketplace Rules]
 ```
-`Updated 03/06/2026`
-
+`Updated 03/28/2026`
 Welcome to our marketplace!
 
 **Users must be Active Member status ("Green" / Level 10) or above to LIST or SELL in the marketplace.** This is to protect buyers from scammers. You can check your level by typing \rank in <#954038539400650782>. Anyone who agrees to marketplace rules may transact.
@@ -20,7 +19,9 @@ Welcome to our marketplace!
 If you're willing to sell and ship to a buyer using PayPal G&S, then you may cross-post to National, otherwise please pick one region for your listing.
 
 1. **REMINDER: NO SCALPING OR TAKING ADVANTAGE OF EXTREME MARKET DEMAND.**
-This is fully defined in <#892488347036041267>. You **must** include a receipt or other proof of purchase date and price in your listing, otherwise it will be removed.
+This is fully defined in <#892488347036041267>. You must include a dated receipt in your listing, if you have it. Listings made without a dated receipt will be assumed to be within the 6-month "near-term resale" window and subject to the Cost +$50 of profit cap; Cost will be based on the launch MSRP of the item in the absence of any other documentation.
+
+> **De minimis exemption:** Items at or under $50 in Cost do not require a receipt.
 
 > **Exception for alike model trades:** Trades for alike models (e.g. a 5090 for a 5090) can be traded freely and not subject to the profit cap. This does not apply for trades for unalike models (e.g. a 5080 for a 5090) - those need to be equalized within the profit cap.
 
@@ -42,7 +43,7 @@ Notes may be used to indicate any additional information about your listing.
 
 4. **Marketplace is intended for hardware only.** Such as computer components, peripherals, and other DIY-related content to be posted in the marketplace. There is some leeway with this, since hardware is loosely defined, but obscure or unrelated content will be removed, such as couches or cars.
 
-5. **All listings require a current timestamp.** You must take a picture of the item with your username and date somewhere in the image. It cannot be digitally added to a picture (i.e. photoshopped); must be either handwritten or displayed on a digital device in the photo, like a tablet or phone.
+5. **All listings require a current timestamp.** You must take a picture of *each* item with your username and date somewhere in the image. It cannot be digitally added to a picture (i.e. photoshopped); must be either handwritten or displayed on a digital device in the photo, like a tablet or phone.
 
 6. **All items in listings must be physically in hand.** No posting pictures of a Newegg win prior to buying or receiving it. Have the item in hand, then post.
 

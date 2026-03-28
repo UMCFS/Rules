@@ -1,4 +1,4 @@
-`Updated 03/07/2026`
+`Updated 03/28/2026`
 **You must read and agree to the rules to gain access to the server.**
 **We follow ALL Discord Community Guidelines and abide by ALL clauses in Discord's Terms of Service:**
 
@@ -23,28 +23,26 @@ These behaviors are toxic, add no economic value, and cause frustration for user
 
 We generally define "Cost" as what you paid for the item. A more thorough definition is detailed below:
 > **Base Value** -
-> __Purchased from an authorized retailer:__ the amount of money paid for your item on a receipt after any discounts, but before taxes and other costs.
-> __Purchased from a private party or non-authorized retailer:__ the lowest value between these sources shall be used: the actual item sale price (before tax etc.), MSRP, or the current item pricing from an authorized retailer.
+> Purchased from an authorized retailer: the amount of money paid for your item on a receipt after any discounts, but before taxes and other costs.
+> Purchased from a private party or non-authorized retailer: the lowest value between these sources shall be used: the actual item sale price (before tax etc.), MSRP, or the current item pricing from an authorized retailer.
 > 
 > **(At) Cost** - Cost is the **Base Value**, plus applicable real, direct costs paid, such as tax, shipping charges, and the cost of a Micro Center transferrable warranty, if applicable.
 > 
 > **Full system build** - A functioning PC, minus peripherals and OS. A full build shall be assembled with a case, PSU, motherboard, CPU, RAM, disk, and modern GPU. **To qualify as a full system build, the PC must contain a discrete GPU from a recent generation** This discourages those shucking GPUs out of pre-builts and reselling here.
 
 ```diff
--If you've owned your item for less than 6 months:
+-If you've owned your item for less than 6 months, or don't have a dated receipt (lost, gift, etc.):
 -You may list or sell your item for no more than its Cost +$50 of profit, no matter the marketplace.
 
--If you've owned your item for 6 months or longer:
+-If you've owned your item for 6 months or longer and have a dated receipt to prove it:
 -You may list or sell your item for any price, but egregious listings are subject to moderator discretion.
 ```
 ```diff
 -If your build qualifies as a full build, you may list or sell it for no more than its Cost +$200 of profit/build fees.
 ```
-Listings made without a receipt or other proof of purchase date and price will be assumed to be within the 6-month "near-term resale" window and subject to the Cost +$50 of profit cap.
+Listings made without a dated receipt will be assumed to be within the 6-month "near-term resale" window and subject to the Cost +$50 of profit cap; Cost will be based on the launch MSRP of the item in the absence of any other documentation.
 
-When listing or selling, reasonable shipping costs as well as PayPal G&S or similar transaction fees (not platform/listing fees, i.e. eBay) can be added to your cost, as these are commonly incurred when listing in our National marketplace or on Reddit HWS. Pirateship is a great resource for discounted shipping.
-
-This profit can be used to recoup gas, fulfill a finders fee, cover your time and labor, etc., and must be included in your cost breakdown.
+When listing, reasonable shipping costs plus PayPal G&S or similar transaction fees (not platform/listing fees, i.e. eBay) can be added to your Cost, as these are commonly incurred when listing in our National marketplace. Pirateship is a great resource for discounted shipping.
 <--- POST BREAK HERE --->
 2. **Violating, or encouraging the violation of Micro Center policies is strictly prohibited.** This includes selling vouchers or line spots, or abusing Micro Center's return policies.
 

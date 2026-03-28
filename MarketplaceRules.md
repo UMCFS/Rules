@@ -21,6 +21,8 @@ If you're willing to sell and ship to a buyer using PayPal G&S, then you may cro
 1. **REMINDER: NO SCALPING OR TAKING ADVANTAGE OF EXTREME MARKET DEMAND.**
 This is fully defined in <#892488347036041267>. You must include a dated receipt in your listing, if you have it. Listings made without a dated receipt will be assumed to be within the 6-month "near-term resale" window and subject to the Cost +$50 of profit cap; Cost will be based on the launch MSRP of the item in the absence of any other documentation.
 
+> **De minimis exemption:** Items at or under $50 in Cost do not require a receipt.
+
 > **Exception for alike model trades:** Trades for alike models (e.g. a 5090 for a 5090) can be traded freely and not subject to the profit cap. This does not apply for trades for unalike models (e.g. a 5080 for a 5090) - those need to be equalized within the profit cap.
 
 2. **Marketplace channels are limited to listings only.** Discussions and commentary about listings are not allowed within marketplace channels; your DMs should be open if you're expecting to negotiate for your marketplace listing.
